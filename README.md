@@ -1,0 +1,1 @@
+# Framer Snippets for Visual Studio Code

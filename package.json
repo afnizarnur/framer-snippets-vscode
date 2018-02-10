@@ -1,0 +1,44 @@
+{
+    "name": "framer-snippets-vscode",
+    "displayName": "Framer Snippets",
+    "author": "Afnizar Nur Ghifari",
+    "publisher": "afnizarnur",
+    "icon": "logo.png",
+    "galleryBanner": {
+        "color": "#000",
+        "theme": "dark"
+    },
+    "version": "0.0.1",
+    "description": "Framer Snippets for Visual Studio Code",
+    "engines": {
+        "vscode": "^1.8.0"
+    },
+    "categories": [
+        "Snippets",
+        "Languages",
+        "Other"
+    ],
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/afnizarnur/framer-snippets-vscode.git"
+    },
+    "keywords": [
+        "snippets",
+        "framer",
+        "prototyping",
+        "design"
+    ],
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/afnizarnur/framer-snippets-vscode/issues"
+    },
+    "homepage": "https://github.com/afnizarnur/framer-snippets-vscode#readme",
+    "contributes": {
+        "snippets": [
+            {
+                "language": "coffeescript",
+                "path": "./snippets/snippets.json"
+            }
+        ]
+    }
+}

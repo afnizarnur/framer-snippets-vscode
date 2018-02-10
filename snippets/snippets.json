@@ -1,0 +1,2722 @@
+{
+    "Framer: Align.bottom($1)": {
+        "prefix": "Align.bottom($1)",
+        "body": "Align.bottom($1)",
+        "description": "Framer: Align.bottom($1)"
+    },
+    "Framer: Align.center($1)": {
+        "prefix": "Align.center($1)",
+        "body": "Align.center($1)",
+        "description": "Framer: Align.center($1)"
+    },
+    "Framer: Align.left($1)": {
+        "prefix": "Align.left($1)",
+        "body": "Align.left($1)",
+        "description": "Framer: Align.left($1)"
+    },
+    "Framer: Align.right($1)": {
+        "prefix": "Align.right($1)",
+        "body": "Align.right($1)",
+        "description": "Framer: Align.right($1)"
+    },
+    "Framer: Align.top($1)": {
+        "prefix": "Align.top($1)",
+        "body": "Align.top($1)",
+        "description": "Framer: Align.top($1)"
+    },
+    "Framer: new Animation": {
+        "prefix": "new Animation",
+        "body": "new Animation",
+        "description": "Framer: new Animation"
+    },
+    "Framer: animate": {
+        "prefix": "animate",
+        "body": "animate",
+        "description": "Framer: animate"
+    },
+    "Framer: Bezier.linear": {
+        "prefix": "Bezier.linear",
+        "body": "Bezier.linear",
+        "description": "Framer: Bezier.linear"
+    },
+    "Framer: Bezier.ease": {
+        "prefix": "Bezier.ease",
+        "body": "Bezier.ease",
+        "description": "Framer: Bezier.ease"
+    },
+    "Framer: Bezier.easeIn": {
+        "prefix": "Bezier.easeIn",
+        "body": "Bezier.easeIn",
+        "description": "Framer: Bezier.easeIn"
+    },
+    "Framer: Bezier.easeOut": {
+        "prefix": "Bezier.easeOut",
+        "body": "Bezier.easeOut",
+        "description": "Framer: Bezier.easeOut"
+    },
+    "Framer: Bezier.easeInOut": {
+        "prefix": "Bezier.easeInOut",
+        "body": "Bezier.easeInOut",
+        "description": "Framer: Bezier.easeInOut"
+    },
+    "Framer: Spring": {
+        "prefix": "Spring",
+        "body": "Spring",
+        "description": "Framer: Spring"
+    },
+    "Framer: x": {
+        "prefix": "x",
+        "body": "x",
+        "description": "Framer: x"
+    },
+    "Framer: y": {
+        "prefix": "y",
+        "body": "y",
+        "description": "Framer: y"
+    },
+    "Framer: z": {
+        "prefix": "z",
+        "body": "z",
+        "description": "Framer: z"
+    },
+    "Framer: minX": {
+        "prefix": "minX",
+        "body": "minX",
+        "description": "Framer: minX"
+    },
+    "Framer: midX": {
+        "prefix": "midX",
+        "body": "midX",
+        "description": "Framer: midX"
+    },
+    "Framer: maxX": {
+        "prefix": "maxX",
+        "body": "maxX",
+        "description": "Framer: maxX"
+    },
+    "Framer: minY": {
+        "prefix": "minY",
+        "body": "minY",
+        "description": "Framer: minY"
+    },
+    "Framer: midY": {
+        "prefix": "midY",
+        "body": "midY",
+        "description": "Framer: midY"
+    },
+    "Framer: maxY": {
+        "prefix": "maxY",
+        "body": "maxY",
+        "description": "Framer: maxY"
+    },
+    "Framer: width": {
+        "prefix": "width",
+        "body": "width",
+        "description": "Framer: width"
+    },
+    "Framer: height": {
+        "prefix": "height",
+        "body": "height",
+        "description": "Framer: height"
+    },
+    "Framer: opacity": {
+        "prefix": "opacity",
+        "body": "opacity",
+        "description": "Framer: opacity"
+    },
+    "Framer: rotation": {
+        "prefix": "rotation",
+        "body": "rotation",
+        "description": "Framer: rotation"
+    },
+    "Framer: rotationX": {
+        "prefix": "rotationX",
+        "body": "rotationX",
+        "description": "Framer: rotationX"
+    },
+    "Framer: rotationY": {
+        "prefix": "rotationY",
+        "body": "rotationY",
+        "description": "Framer: rotationY"
+    },
+    "Framer: rotationZ": {
+        "prefix": "rotationZ",
+        "body": "rotationZ",
+        "description": "Framer: rotationZ"
+    },
+    "Framer: scalescaleX": {
+        "prefix": "scalescaleX",
+        "body": "scalescaleX",
+        "description": "Framer: scalescaleX"
+    },
+    "Framer: scaleY": {
+        "prefix": "scaleY",
+        "body": "scaleY",
+        "description": "Framer: scaleY"
+    },
+    "Framer: scaleZ": {
+        "prefix": "scaleZ",
+        "body": "scaleZ",
+        "description": "Framer: scaleZ"
+    },
+    "Framer: originX": {
+        "prefix": "originX",
+        "body": "originX",
+        "description": "Framer: originX"
+    },
+    "Framer: originY": {
+        "prefix": "originY",
+        "body": "originY",
+        "description": "Framer: originY"
+    },
+    "Framer: perspective": {
+        "prefix": "perspective",
+        "body": "perspective",
+        "description": "Framer: perspective"
+    },
+    "Framer: scrollX": {
+        "prefix": "scrollX",
+        "body": "scrollX",
+        "description": "Framer: scrollX"
+    },
+    "Framer: scrollY": {
+        "prefix": "scrollY",
+        "body": "scrollY",
+        "description": "Framer: scrollY"
+    },
+    "Framer: borderRadius": {
+        "prefix": "borderRadius",
+        "body": "borderRadius",
+        "description": "Framer: borderRadius"
+    },
+    "Framer: borderWidth": {
+        "prefix": "borderWidth",
+        "body": "borderWidth",
+        "description": "Framer: borderWidth"
+    },
+    "Framer: shadowX": {
+        "prefix": "shadowX",
+        "body": "shadowX",
+        "description": "Framer: shadowX"
+    },
+    "Framer: shadowY": {
+        "prefix": "shadowY",
+        "body": "shadowY",
+        "description": "Framer: shadowY"
+    },
+    "Framer: shadowBlur": {
+        "prefix": "shadowBlur",
+        "body": "shadowBlur",
+        "description": "Framer: shadowBlur"
+    },
+    "Framer: shadowSpread": {
+        "prefix": "shadowSpread",
+        "body": "shadowSpread",
+        "description": "Framer: shadowSpread"
+    },
+    "Framer: blur": {
+        "prefix": "blur",
+        "body": "blur",
+        "description": "Framer: blur"
+    },
+    "Framer: brightness": {
+        "prefix": "brightness",
+        "body": "brightness",
+        "description": "Framer: brightness"
+    },
+    "Framer: saturate": {
+        "prefix": "saturate",
+        "body": "saturate",
+        "description": "Framer: saturate"
+    },
+    "Framer: hueRotate": {
+        "prefix": "hueRotate",
+        "body": "hueRotate",
+        "description": "Framer: hueRotate"
+    },
+    "Framer: contrast": {
+        "prefix": "contrast",
+        "body": "contrast",
+        "description": "Framer: contrast"
+    },
+    "Framer: invert": {
+        "prefix": "invert",
+        "body": "invert",
+        "description": "Framer: invert"
+    },
+    "Framer: grayscale": {
+        "prefix": "grayscale",
+        "body": "grayscale",
+        "description": "Framer: grayscale"
+    },
+    "Framer: sepia": {
+        "prefix": "sepia",
+        "body": "sepia",
+        "description": "Framer: sepia"
+    },
+    "Framer: start()": {
+        "prefix": "start()",
+        "body": "start()",
+        "description": "Framer: start()"
+    },
+    "Framer: stop()": {
+        "prefix": "stop()",
+        "body": "stop()",
+        "description": "Framer: stop()"
+    },
+    "Framer: reverse()": {
+        "prefix": "reverse()",
+        "body": "reverse()",
+        "description": "Framer: reverse()"
+    },
+    "Framer: reset()": {
+        "prefix": "reset()",
+        "body": "reset()",
+        "description": "Framer: reset()"
+    },
+    "Framer: restart()": {
+        "prefix": "restart()",
+        "body": "restart()",
+        "description": "Framer: restart()"
+    },
+    "Framer: finish()": {
+        "prefix": "finish()",
+        "body": "finish()",
+        "description": "Framer: finish()"
+    },
+    "Framer: Canvas.backgroundColor": {
+        "prefix": "Canvas.backgroundColor",
+        "body": "Canvas.backgroundColor",
+        "description": "Framer: Canvas.backgroundColor"
+    },
+    "Framer: Canvas.image": {
+        "prefix": "Canvas.image",
+        "body": "Canvas.image",
+        "description": "Framer: Canvas.image"
+    },
+    "Framer: Canvas.width": {
+        "prefix": "Canvas.width",
+        "body": "Canvas.width",
+        "description": "Framer: Canvas.width"
+    },
+    "Framer: Canvas.height": {
+        "prefix": "Canvas.height",
+        "body": "Canvas.height",
+        "description": "Framer: Canvas.height"
+    },
+    "Framer: Canvas.size": {
+        "prefix": "Canvas.size",
+        "body": "Canvas.size",
+        "description": "Framer: Canvas.size"
+    },
+    "Framer: Canvas.frame": {
+        "prefix": "Canvas.frame",
+        "body": "Canvas.frame",
+        "description": "Framer: Canvas.frame"
+    },
+    "Framer: Canvas.convertPointToScreen($1)": {
+        "prefix": "Canvas.convertPointToScreen($1)",
+        "body": "Canvas.convertPointToScreen($1)",
+        "description": "Framer: Canvas.convertPointToScreen($1)"
+    },
+    "Framer: Canvas.convertPointToLayer($1,$2)": {
+        "prefix": "Canvas.convertPointToLayer($1,$2)",
+        "body": "Canvas.convertPointToLayer($1,$2)",
+        "description": "Framer: Canvas.convertPointToLayer($1,$2)"
+    },
+    "Framer: new Color($1)": {
+        "prefix": "new Color($1)",
+        "body": "new Color($1)",
+        "description": "Framer: new Color($1)"
+    },
+    "Framer: color.lighten($1)": {
+        "prefix": "color.lighten($1)",
+        "body": "color.lighten($1)",
+        "description": "Framer: color.lighten($1)"
+    },
+    "Framer: color.darken($1)": {
+        "prefix": "color.darken($1)",
+        "body": "color.darken($1)",
+        "description": "Framer: color.darken($1)"
+    },
+    "Framer: color.saturate($1)": {
+        "prefix": "color.saturate($1)",
+        "body": "color.saturate($1)",
+        "description": "Framer: color.saturate($1)"
+    },
+    "Framer: color.desaturate($1)": {
+        "prefix": "color.desaturate($1)",
+        "body": "color.desaturate($1)",
+        "description": "Framer: color.desaturate($1)"
+    },
+    "Framer: color.grayscale()": {
+        "prefix": "color.grayscale()",
+        "body": "color.grayscale()",
+        "description": "Framer: color.grayscale()"
+    },
+    "Framer: color.gray($1,$2)": {
+        "prefix": "color.gray($1,$2)",
+        "body": "color.gray($1,$2)",
+        "description": "Framer: color.gray($1,$2)"
+    },
+    "Framer: color.alpha($1)": {
+        "prefix": "color.alpha($1)",
+        "body": "color.alpha($1)",
+        "description": "Framer: color.alpha($1)"
+    },
+    "Framer: color.mix(colorA,colorB,fraction,limit,model)": {
+        "prefix": "color.mix(colorA,colorB,fraction,limit,model)",
+        "body": "color.mix(colorA,colorB,fraction,limit,model)",
+        "description": "Framer: color.mix(colorA,colorB,fraction,limit,model)"
+    },
+    "Framer: Color.random()": {
+        "prefix": "Color.random()",
+        "body": "Color.random()",
+        "description": "Framer: Color.random()"
+    },
+    "Framer: Color.isColor($1)": {
+        "prefix": "Color.isColor($1)",
+        "body": "Color.isColor($1)",
+        "description": "Framer: Color.isColor($1)"
+    },
+    "Framer: Color.isColorObject($1)": {
+        "prefix": "Color.isColorObject($1)",
+        "body": "Color.isColorObject($1)",
+        "description": "Framer: Color.isColorObject($1)"
+    },
+    "Framer: Color.isColorString($1)": {
+        "prefix": "Color.isColorString($1)",
+        "body": "Color.isColorString($1)",
+        "description": "Framer: Color.isColorString($1)"
+    },
+    "Framer: color.toHexString()": {
+        "prefix": "color.toHexString()",
+        "body": "color.toHexString()",
+        "description": "Framer: color.toHexString()"
+    },
+    "Framer: color.toRgbString()": {
+        "prefix": "color.toRgbString()",
+        "body": "color.toRgbString()",
+        "description": "Framer: color.toRgbString()"
+    },
+    "Framer: color.toHslString()": {
+        "prefix": "color.toHslString()",
+        "body": "color.toHslString()",
+        "description": "Framer: color.toHslString()"
+    },
+    "Framer: Framer.Device.customize": {
+        "prefix": "Framer.Device.customize",
+        "body": "Framer.Device.customize",
+        "description": "Framer: Framer.Device.customize"
+    },
+    "Framer: Framer.Device.deviceType": {
+        "prefix": "Framer.Device.deviceType",
+        "body": "Framer.Device.deviceType",
+        "description": "Framer: Framer.Device.deviceType"
+    },
+    "Framer: Framer.Device.fullScreen": {
+        "prefix": "Framer.Device.fullScreen",
+        "body": "Framer.Device.fullScreen",
+        "description": "Framer: Framer.Device.fullScreen"
+    },
+    "Framer: Framer.Device.deviceScale": {
+        "prefix": "Framer.Device.deviceScale",
+        "body": "Framer.Device.deviceScale",
+        "description": "Framer: Framer.Device.deviceScale"
+    },
+    "Framer: Framer.Device.setDeviceScale($1,$2)": {
+        "prefix": "Framer.Device.setDeviceScale($1,$2)",
+        "body": "Framer.Device.setDeviceScale($1,$2)",
+        "description": "Framer: Framer.Device.setDeviceScale($1,$2)"
+    },
+    "Framer: Framer.Device.contentScale": {
+        "prefix": "Framer.Device.contentScale",
+        "body": "Framer.Device.contentScale",
+        "description": "Framer: Framer.Device.contentScale"
+    },
+    "Framer: Framer.Device.setContentScale($1,$2)": {
+        "prefix": "Framer.Device.setContentScale($1,$2)",
+        "body": "Framer.Device.setContentScale($1,$2)",
+        "description": "Framer: Framer.Device.setContentScale($1,$2)"
+    },
+    "Framer: Framer.Device.orientation": {
+        "prefix": "Framer.Device.orientation",
+        "body": "Framer.Device.orientation",
+        "description": "Framer: Framer.Device.orientation"
+    },
+    "Framer: Framer.Device.setOrientation($1,$2)": {
+        "prefix": "Framer.Device.setOrientation($1,$2)",
+        "body": "Framer.Device.setOrientation($1,$2)",
+        "description": "Framer: Framer.Device.setOrientation($1,$2)"
+    },
+    "Framer: Framer.Device.orientationName": {
+        "prefix": "Framer.Device.orientationName",
+        "body": "Framer.Device.orientationName",
+        "description": "Framer: Framer.Device.orientationName"
+    },
+    "Framer: Framer.Device.rotateLeft()": {
+        "prefix": "Framer.Device.rotateLeft()",
+        "body": "Framer.Device.rotateLeft()",
+        "description": "Framer: Framer.Device.rotateLeft()"
+    },
+    "Framer: Framer.Device.rotateRight()": {
+        "prefix": "Framer.Device.rotateRight()",
+        "body": "Framer.Device.rotateRight()",
+        "description": "Framer: Framer.Device.rotateRight()"
+    },
+    "Framer: draggable.enabled": {
+        "prefix": "draggable.enabled",
+        "body": "draggable.enabled",
+        "description": "Framer: draggable.enabled"
+    },
+    "Framer: draggable.horizontal": {
+        "prefix": "draggable.horizontal",
+        "body": "draggable.horizontal",
+        "description": "Framer: draggable.horizontal"
+    },
+    "Framer: draggable.vertical": {
+        "prefix": "draggable.vertical",
+        "body": "draggable.vertical",
+        "description": "Framer: draggable.vertical"
+    },
+    "Framer: draggable.speedX": {
+        "prefix": "draggable.speedX",
+        "body": "draggable.speedX",
+        "description": "Framer: draggable.speedX"
+    },
+    "Framer: draggable.speedY": {
+        "prefix": "draggable.speedY",
+        "body": "draggable.speedY",
+        "description": "Framer: draggable.speedY"
+    },
+    "Framer: draggable.constraints": {
+        "prefix": "draggable.constraints",
+        "body": "draggable.constraints",
+        "description": "Framer: draggable.constraints"
+    },
+    "Framer: draggable.constraintsOffset": {
+        "prefix": "draggable.constraintsOffset",
+        "body": "draggable.constraintsOffset",
+        "description": "Framer: draggable.constraintsOffset"
+    },
+    "Framer: draggable.isBeyondConstraints": {
+        "prefix": "draggable.isBeyondConstraints",
+        "body": "draggable.isBeyondConstraints",
+        "description": "Framer: draggable.isBeyondConstraints"
+    },
+    "Framer: draggable.overdrag": {
+        "prefix": "draggable.overdrag",
+        "body": "draggable.overdrag",
+        "description": "Framer: draggable.overdrag"
+    },
+    "Framer: draggable.overdragScale": {
+        "prefix": "draggable.overdragScale",
+        "body": "draggable.overdragScale",
+        "description": "Framer: draggable.overdragScale"
+    },
+    "Framer: draggable.momentum": {
+        "prefix": "draggable.momentum",
+        "body": "draggable.momentum",
+        "description": "Framer: draggable.momentum"
+    },
+    "Framer: draggable.momentumOptions": {
+        "prefix": "draggable.momentumOptions",
+        "body": "draggable.momentumOptions",
+        "description": "Framer: draggable.momentumOptions"
+    },
+    "Framer: draggable.bounce": {
+        "prefix": "draggable.bounce",
+        "body": "draggable.bounce",
+        "description": "Framer: draggable.bounce"
+    },
+    "Framer: draggable.bounceOptions": {
+        "prefix": "draggable.bounceOptions",
+        "body": "draggable.bounceOptions",
+        "description": "Framer: draggable.bounceOptions"
+    },
+    "Framer: draggable.velocity": {
+        "prefix": "draggable.velocity",
+        "body": "draggable.velocity",
+        "description": "Framer: draggable.velocity"
+    },
+    "Framer: draggable.direction": {
+        "prefix": "draggable.direction",
+        "body": "draggable.direction",
+        "description": "Framer: draggable.direction"
+    },
+    "Framer: draggable.angle": {
+        "prefix": "draggable.angle",
+        "body": "draggable.angle",
+        "description": "Framer: draggable.angle"
+    },
+    "Framer: draggable.updatePosition()": {
+        "prefix": "draggable.updatePosition()",
+        "body": "draggable.updatePosition()",
+        "description": "Framer: draggable.updatePosition()"
+    },
+    "Framer: draggable.directionLock": {
+        "prefix": "draggable.directionLock",
+        "body": "draggable.directionLock",
+        "description": "Framer: draggable.directionLock"
+    },
+    "Framer: draggable.directionLockThreshold": {
+        "prefix": "draggable.directionLockThreshold",
+        "body": "draggable.directionLockThreshold",
+        "description": "Framer: draggable.directionLockThreshold"
+    },
+    "Framer: draggable.pixelAlign": {
+        "prefix": "draggable.pixelAlign",
+        "body": "draggable.pixelAlign",
+        "description": "Framer: draggable.pixelAlign"
+    },
+    "Framer: draggable.isDragging": {
+        "prefix": "draggable.isDragging",
+        "body": "draggable.isDragging",
+        "description": "Framer: draggable.isDragging"
+    },
+    "Framer: draggable.isAnimating": {
+        "prefix": "draggable.isAnimating",
+        "body": "draggable.isAnimating",
+        "description": "Framer: draggable.isAnimating"
+    },
+    "Framer: draggable.isMoving": {
+        "prefix": "draggable.isMoving",
+        "body": "draggable.isMoving",
+        "description": "Framer: draggable.isMoving"
+    },
+    "Framer: draggable.offset": {
+        "prefix": "draggable.offset",
+        "body": "draggable.offset",
+        "description": "Framer: draggable.offset"
+    },
+    "Framer: draggable.layerStartPoint": {
+        "prefix": "draggable.layerStartPoint",
+        "body": "draggable.layerStartPoint",
+        "description": "Framer: draggable.layerStartPoint"
+    },
+    "Framer: draggable.cursorStartPoint": {
+        "prefix": "draggable.cursorStartPoint",
+        "body": "draggable.cursorStartPoint",
+        "description": "Framer: draggable.cursorStartPoint"
+    },
+    "Framer: draggable.layerCursorOffset": {
+        "prefix": "draggable.layerCursorOffset",
+        "body": "draggable.layerCursorOffset",
+        "description": "Framer: draggable.layerCursorOffset"
+    },
+    "Framer: draggable.propagateEvents": {
+        "prefix": "draggable.propagateEvents",
+        "body": "draggable.propagateEvents",
+        "description": "Framer: draggable.propagateEvents"
+    },
+    "Framer: Events.Tap": {
+        "prefix": "Events.Tap",
+        "body": "Events.Tap",
+        "description": "Framer: Events.Tap"
+    },
+    "Framer: onTap": {
+        "prefix": "onTap",
+        "body": "onTap",
+        "description": "Framer: onTap"
+    },
+    "Framer: onSingleTap": {
+        "prefix": "onSingleTap",
+        "body": "onSingleTap",
+        "description": "Framer: onSingleTap"
+    },
+    "Framer: onDoubleTap": {
+        "prefix": "onDoubleTap",
+        "body": "onDoubleTap",
+        "description": "Framer: onDoubleTap"
+    },
+    "Framer: Events.ForceTap": {
+        "prefix": "Events.ForceTap",
+        "body": "Events.ForceTap",
+        "description": "Framer: Events.ForceTap"
+    },
+    "Framer: Events.ForceTapChange": {
+        "prefix": "Events.ForceTapChange",
+        "body": "Events.ForceTapChange",
+        "description": "Framer: Events.ForceTapChange"
+    },
+    "Framer: Events.ForceTapStart": {
+        "prefix": "Events.ForceTapStart",
+        "body": "Events.ForceTapStart",
+        "description": "Framer: Events.ForceTapStart"
+    },
+    "Framer: Events.ForceTapEnd": {
+        "prefix": "Events.ForceTapEnd",
+        "body": "Events.ForceTapEnd",
+        "description": "Framer: Events.ForceTapEnd"
+    },
+    "Framer: onForceTap": {
+        "prefix": "onForceTap",
+        "body": "onForceTap",
+        "description": "Framer: onForceTap"
+    },
+    "Framer: onForceTapChange": {
+        "prefix": "onForceTapChange",
+        "body": "onForceTapChange",
+        "description": "Framer: onForceTapChange"
+    },
+    "Framer: onForceTapStart": {
+        "prefix": "onForceTapStart",
+        "body": "onForceTapStart",
+        "description": "Framer: onForceTapStart"
+    },
+    "Framer: onForceTapEnd": {
+        "prefix": "onForceTapEnd",
+        "body": "onForceTapEnd",
+        "description": "Framer: onForceTapEnd"
+    },
+    "Framer: Events.LongPress": {
+        "prefix": "Events.LongPress",
+        "body": "Events.LongPress",
+        "description": "Framer: Events.LongPress"
+    },
+    "Framer: Events.LongPressStart": {
+        "prefix": "Events.LongPressStart",
+        "body": "Events.LongPressStart",
+        "description": "Framer: Events.LongPressStart"
+    },
+    "Framer: Events.LongPressEnd": {
+        "prefix": "Events.LongPressEnd",
+        "body": "Events.LongPressEnd",
+        "description": "Framer: Events.LongPressEnd"
+    },
+    "Framer: onLongPress": {
+        "prefix": "onLongPress",
+        "body": "onLongPress",
+        "description": "Framer: onLongPress"
+    },
+    "Framer: onLongPressStart": {
+        "prefix": "onLongPressStart",
+        "body": "onLongPressStart",
+        "description": "Framer: onLongPressStart"
+    },
+    "Framer: onLongPressEnd": {
+        "prefix": "onLongPressEnd",
+        "body": "onLongPressEnd",
+        "description": "Framer: onLongPressEnd"
+    },
+    "Framer: Events.Swipe": {
+        "prefix": "Events.Swipe",
+        "body": "Events.Swipe",
+        "description": "Framer: Events.Swipe"
+    },
+    "Framer: Events.SwipeStart": {
+        "prefix": "Events.SwipeStart",
+        "body": "Events.SwipeStart",
+        "description": "Framer: Events.SwipeStart"
+    },
+    "Framer: Events.SwipeEnd": {
+        "prefix": "Events.SwipeEnd",
+        "body": "Events.SwipeEnd",
+        "description": "Framer: Events.SwipeEnd"
+    },
+    "Framer: onSwipeStart": {
+        "prefix": "onSwipeStart",
+        "body": "onSwipeStart",
+        "description": "Framer: onSwipeStart"
+    },
+    "Framer: onSwipeEnd": {
+        "prefix": "onSwipeEnd",
+        "body": "onSwipeEnd",
+        "description": "Framer: onSwipeEnd"
+    },
+    "Framer: Events.SwipeUp": {
+        "prefix": "Events.SwipeUp",
+        "body": "Events.SwipeUp",
+        "description": "Framer: Events.SwipeUp"
+    },
+    "Framer: Events.SwipeUpStart": {
+        "prefix": "Events.SwipeUpStart",
+        "body": "Events.SwipeUpStart",
+        "description": "Framer: Events.SwipeUpStart"
+    },
+    "Framer: Events.SwipeUpEnd": {
+        "prefix": "Events.SwipeUpEnd",
+        "body": "Events.SwipeUpEnd",
+        "description": "Framer: Events.SwipeUpEnd"
+    },
+    "Framer: onRotate": {
+        "prefix": "onRotate",
+        "body": "onRotate",
+        "description": "Framer: onRotate"
+    },
+    "Framer: onSwipeUp": {
+        "prefix": "onSwipeUp",
+        "body": "onSwipeUp",
+        "description": "Framer: onSwipeUp"
+    },
+    "Framer: onSwipeUpStart": {
+        "prefix": "onSwipeUpStart",
+        "body": "onSwipeUpStart",
+        "description": "Framer: onSwipeUpStart"
+    },
+    "Framer: onSwipeUpEnd": {
+        "prefix": "onSwipeUpEnd",
+        "body": "onSwipeUpEnd",
+        "description": "Framer: onSwipeUpEnd"
+    },
+    "Framer: Events.SwipeDown": {
+        "prefix": "Events.SwipeDown",
+        "body": "Events.SwipeDown",
+        "description": "Framer: Events.SwipeDown"
+    },
+    "Framer: Events.SwipeDownStart": {
+        "prefix": "Events.SwipeDownStart",
+        "body": "Events.SwipeDownStart",
+        "description": "Framer: Events.SwipeDownStart"
+    },
+    "Framer: Events.SwipeDownEnd": {
+        "prefix": "Events.SwipeDownEnd",
+        "body": "Events.SwipeDownEnd",
+        "description": "Framer: Events.SwipeDownEnd"
+    },
+    "Framer: onSwipeDown": {
+        "prefix": "onSwipeDown",
+        "body": "onSwipeDown",
+        "description": "Framer: onSwipeDown"
+    },
+    "Framer: onSwipeDownStart": {
+        "prefix": "onSwipeDownStart",
+        "body": "onSwipeDownStart",
+        "description": "Framer: onSwipeDownStart"
+    },
+    "Framer: onSwipeDownEnd": {
+        "prefix": "onSwipeDownEnd",
+        "body": "onSwipeDownEnd",
+        "description": "Framer: onSwipeDownEnd"
+    },
+    "Framer: Events.SwipeLeft": {
+        "prefix": "Events.SwipeLeft",
+        "body": "Events.SwipeLeft",
+        "description": "Framer: Events.SwipeLeft"
+    },
+    "Framer: Events.SwipeLeftStart": {
+        "prefix": "Events.SwipeLeftStart",
+        "body": "Events.SwipeLeftStart",
+        "description": "Framer: Events.SwipeLeftStart"
+    },
+    "Framer: Events.SwipeLeftEnd": {
+        "prefix": "Events.SwipeLeftEnd",
+        "body": "Events.SwipeLeftEnd",
+        "description": "Framer: Events.SwipeLeftEnd"
+    },
+    "Framer: onSwipeLeft": {
+        "prefix": "onSwipeLeft",
+        "body": "onSwipeLeft",
+        "description": "Framer: onSwipeLeft"
+    },
+    "Framer: onSwipeLeftStart": {
+        "prefix": "onSwipeLeftStart",
+        "body": "onSwipeLeftStart",
+        "description": "Framer: onSwipeLeftStart"
+    },
+    "Framer: onSwipeLeftEnd": {
+        "prefix": "onSwipeLeftEnd",
+        "body": "onSwipeLeftEnd",
+        "description": "Framer: onSwipeLeftEnd"
+    },
+    "Framer: Events.SwipeRight": {
+        "prefix": "Events.SwipeRight",
+        "body": "Events.SwipeRight",
+        "description": "Framer: Events.SwipeRight"
+    },
+    "Framer: Events.SwipeRightStart": {
+        "prefix": "Events.SwipeRightStart",
+        "body": "Events.SwipeRightStart",
+        "description": "Framer: Events.SwipeRightStart"
+    },
+    "Framer: Events.SwipeRightEnd": {
+        "prefix": "Events.SwipeRightEnd",
+        "body": "Events.SwipeRightEnd",
+        "description": "Framer: Events.SwipeRightEnd"
+    },
+    "Framer: onSwipeRight": {
+        "prefix": "onSwipeRight",
+        "body": "onSwipeRight",
+        "description": "Framer: onSwipeRight"
+    },
+    "Framer: onSwipeRightStart": {
+        "prefix": "onSwipeRightStart",
+        "body": "onSwipeRightStart",
+        "description": "Framer: onSwipeRightStart"
+    },
+    "Framer: onSwipeRightEnd": {
+        "prefix": "onSwipeRightEnd",
+        "body": "onSwipeRightEnd",
+        "description": "Framer: onSwipeRightEnd"
+    },
+    "Framer: Events.Pan": {
+        "prefix": "Events.Pan",
+        "body": "Events.Pan",
+        "description": "Framer: Events.Pan"
+    },
+    "Framer: Events.PanStart": {
+        "prefix": "Events.PanStart",
+        "body": "Events.PanStart",
+        "description": "Framer: Events.PanStart"
+    },
+    "Framer: Events.PanMove": {
+        "prefix": "Events.PanMove",
+        "body": "Events.PanMove",
+        "description": "Framer: Events.PanMove"
+    },
+    "Framer: Events.PanEnd": {
+        "prefix": "Events.PanEnd",
+        "body": "Events.PanEnd",
+        "description": "Framer: Events.PanEnd"
+    },
+    "Framer: Events.PanLeft": {
+        "prefix": "Events.PanLeft",
+        "body": "Events.PanLeft",
+        "description": "Framer: Events.PanLeft"
+    },
+    "Framer: Events.PanRight": {
+        "prefix": "Events.PanRight",
+        "body": "Events.PanRight",
+        "description": "Framer: Events.PanRight"
+    },
+    "Framer: Events.PanUp": {
+        "prefix": "Events.PanUp",
+        "body": "Events.PanUp",
+        "description": "Framer: Events.PanUp"
+    },
+    "Framer: Events.PanDown": {
+        "prefix": "Events.PanDown",
+        "body": "Events.PanDown",
+        "description": "Framer: Events.PanDown"
+    },
+    "Framer: onPan": {
+        "prefix": "onPan",
+        "body": "onPan",
+        "description": "Framer: onPan"
+    },
+    "Framer: onPanStart": {
+        "prefix": "onPanStart",
+        "body": "onPanStart",
+        "description": "Framer: onPanStart"
+    },
+    "Framer: onPanMove": {
+        "prefix": "onPanMove",
+        "body": "onPanMove",
+        "description": "Framer: onPanMove"
+    },
+    "Framer: onPanEnd": {
+        "prefix": "onPanEnd",
+        "body": "onPanEnd",
+        "description": "Framer: onPanEnd"
+    },
+    "Framer: onPanLeft": {
+        "prefix": "onPanLeft",
+        "body": "onPanLeft",
+        "description": "Framer: onPanLeft"
+    },
+    "Framer: onPanRight": {
+        "prefix": "onPanRight",
+        "body": "onPanRight",
+        "description": "Framer: onPanRight"
+    },
+    "Framer: onPanUp": {
+        "prefix": "onPanUp",
+        "body": "onPanUp",
+        "description": "Framer: onPanUp"
+    },
+    "Framer: onPanDown": {
+        "prefix": "onPanDown",
+        "body": "onPanDown",
+        "description": "Framer: onPanDown"
+    },
+    "Framer: Events.Pinch": {
+        "prefix": "Events.Pinch",
+        "body": "Events.Pinch",
+        "description": "Framer: Events.Pinch"
+    },
+    "Framer: Events.PinchStart": {
+        "prefix": "Events.PinchStart",
+        "body": "Events.PinchStart",
+        "description": "Framer: Events.PinchStart"
+    },
+    "Framer: Events.PinchEnd": {
+        "prefix": "Events.PinchEnd",
+        "body": "Events.PinchEnd",
+        "description": "Framer: Events.PinchEnd"
+    },
+    "Framer: onPinch": {
+        "prefix": "onPinch",
+        "body": "onPinch",
+        "description": "Framer: onPinch"
+    },
+    "Framer: onPinchStart": {
+        "prefix": "onPinchStart",
+        "body": "onPinchStart",
+        "description": "Framer: onPinchStart"
+    },
+    "Framer: onPinchEnd": {
+        "prefix": "onPinchEnd",
+        "body": "onPinchEnd",
+        "description": "Framer: onPinchEnd"
+    },
+    "Framer: Events.Scale": {
+        "prefix": "Events.Scale",
+        "body": "Events.Scale",
+        "description": "Framer: Events.Scale"
+    },
+    "Framer: Events.ScaleStart": {
+        "prefix": "Events.ScaleStart",
+        "body": "Events.ScaleStart",
+        "description": "Framer: Events.ScaleStart"
+    },
+    "Framer: Events.ScaleEnd": {
+        "prefix": "Events.ScaleEnd",
+        "body": "Events.ScaleEnd",
+        "description": "Framer: Events.ScaleEnd"
+    },
+    "Framer: scale": {
+        "prefix": "scale",
+        "body": "scale",
+        "description": "Framer: scale"
+    },
+    "Framer: onScale": {
+        "prefix": "onScale",
+        "body": "onScale",
+        "description": "Framer: onScale"
+    },
+    "Framer: onScaleStart": {
+        "prefix": "onScaleStart",
+        "body": "onScaleStart",
+        "description": "Framer: onScaleStart"
+    },
+    "Framer: onScaleEnd": {
+        "prefix": "onScaleEnd",
+        "body": "onScaleEnd",
+        "description": "Framer: onScaleEnd"
+    },
+    "Framer: Events.Rotate": {
+        "prefix": "Events.Rotate",
+        "body": "Events.Rotate",
+        "description": "Framer: Events.Rotate"
+    },
+    "Framer: Events.RotateStart": {
+        "prefix": "Events.RotateStart",
+        "body": "Events.RotateStart",
+        "description": "Framer: Events.RotateStart"
+    },
+    "Framer: Events.RotateEnd": {
+        "prefix": "Events.RotateEnd",
+        "body": "Events.RotateEnd",
+        "description": "Framer: Events.RotateEnd"
+    },
+    "Framer: onRotateStart": {
+        "prefix": "onRotateStart",
+        "body": "onRotateStart",
+        "description": "Framer: onRotateStart"
+    },
+    "Framer: onRotateEnd": {
+        "prefix": "onRotateEnd",
+        "body": "onRotateEnd",
+        "description": "Framer: onRotateEnd"
+    },
+    "Framer: Events.TouchStart": {
+        "prefix": "Events.TouchStart",
+        "body": "Events.TouchStart",
+        "description": "Framer: Events.TouchStart"
+    },
+    "Framer: Events.TouchMove": {
+        "prefix": "Events.TouchMove",
+        "body": "Events.TouchMove",
+        "description": "Framer: Events.TouchMove"
+    },
+    "Framer: Events.TouchEnd": {
+        "prefix": "Events.TouchEnd",
+        "body": "Events.TouchEnd",
+        "description": "Framer: Events.TouchEnd"
+    },
+    "Framer: onTouchStart": {
+        "prefix": "onTouchStart",
+        "body": "onTouchStart",
+        "description": "Framer: onTouchStart"
+    },
+    "Framer: onTouchMove": {
+        "prefix": "onTouchMove",
+        "body": "onTouchMove",
+        "description": "Framer: onTouchMove"
+    },
+    "Framer: onTouchEnd": {
+        "prefix": "onTouchEnd",
+        "body": "onTouchEnd",
+        "description": "Framer: onTouchEnd"
+    },
+    "Framer: Events.Click": {
+        "prefix": "Events.Click",
+        "body": "Events.Click",
+        "description": "Framer: Events.Click"
+    },
+    "Framer: onClick": {
+        "prefix": "onClick",
+        "body": "onClick",
+        "description": "Framer: onClick"
+    },
+    "Framer: Events.MouseUp": {
+        "prefix": "Events.MouseUp",
+        "body": "Events.MouseUp",
+        "description": "Framer: Events.MouseUp"
+    },
+    "Framer: Events.MouseDown": {
+        "prefix": "Events.MouseDown",
+        "body": "Events.MouseDown",
+        "description": "Framer: Events.MouseDown"
+    },
+    "Framer: Events.MouseOver": {
+        "prefix": "Events.MouseOver",
+        "body": "Events.MouseOver",
+        "description": "Framer: Events.MouseOver"
+    },
+    "Framer: Events.MouseOut": {
+        "prefix": "Events.MouseOut",
+        "body": "Events.MouseOut",
+        "description": "Framer: Events.MouseOut"
+    },
+    "Framer: Events.MouseMove": {
+        "prefix": "Events.MouseMove",
+        "body": "Events.MouseMove",
+        "description": "Framer: Events.MouseMove"
+    },
+    "Framer: Events.MouseWheel": {
+        "prefix": "Events.MouseWheel",
+        "body": "Events.MouseWheel",
+        "description": "Framer: Events.MouseWheel"
+    },
+    "Framer: onMouseUp": {
+        "prefix": "onMouseUp",
+        "body": "onMouseUp",
+        "description": "Framer: onMouseUp"
+    },
+    "Framer: onMouseDown": {
+        "prefix": "onMouseDown",
+        "body": "onMouseDown",
+        "description": "Framer: onMouseDown"
+    },
+    "Framer: onMouseOver": {
+        "prefix": "onMouseOver",
+        "body": "onMouseOver",
+        "description": "Framer: onMouseOver"
+    },
+    "Framer: onMouseOut": {
+        "prefix": "onMouseOut",
+        "body": "onMouseOut",
+        "description": "Framer: onMouseOut"
+    },
+    "Framer: onMouseMove": {
+        "prefix": "onMouseMove",
+        "body": "onMouseMove",
+        "description": "Framer: onMouseMove"
+    },
+    "Framer: onMouseWheel": {
+        "prefix": "onMouseWheel",
+        "body": "onMouseWheel",
+        "description": "Framer: onMouseWheel"
+    },
+    "Framer: Events.AnimationStart": {
+        "prefix": "Events.AnimationStart",
+        "body": "Events.AnimationStart",
+        "description": "Framer: Events.AnimationStart"
+    },
+    "Framer: Events.AnimationStop": {
+        "prefix": "Events.AnimationStop",
+        "body": "Events.AnimationStop",
+        "description": "Framer: Events.AnimationStop"
+    },
+    "Framer: Events.AnimationEnd": {
+        "prefix": "Events.AnimationEnd",
+        "body": "Events.AnimationEnd",
+        "description": "Framer: Events.AnimationEnd"
+    },
+    "Framer: onAnimationStart": {
+        "prefix": "onAnimationStart",
+        "body": "onAnimationStart",
+        "description": "Framer: onAnimationStart"
+    },
+    "Framer: onAnimationStop": {
+        "prefix": "onAnimationStop",
+        "body": "onAnimationStop",
+        "description": "Framer: onAnimationStop"
+    },
+    "Framer: onAnimationEnd": {
+        "prefix": "onAnimationEnd",
+        "body": "onAnimationEnd",
+        "description": "Framer: onAnimationEnd"
+    },
+    "Framer: Events.StateSwitchStart": {
+        "prefix": "Events.StateSwitchStart",
+        "body": "Events.StateSwitchStart",
+        "description": "Framer: Events.StateSwitchStart"
+    },
+    "Framer: Events.StateSwitchStop": {
+        "prefix": "Events.StateSwitchStop",
+        "body": "Events.StateSwitchStop",
+        "description": "Framer: Events.StateSwitchStop"
+    },
+    "Framer: Events.StateSwitchEnd": {
+        "prefix": "Events.StateSwitchEnd",
+        "body": "Events.StateSwitchEnd",
+        "description": "Framer: Events.StateSwitchEnd"
+    },
+    "Framer: onStateSwitchStart": {
+        "prefix": "onStateSwitchStart",
+        "body": "onStateSwitchStart",
+        "description": "Framer: onStateSwitchStart"
+    },
+    "Framer: onStateSwitchStop": {
+        "prefix": "onStateSwitchStop",
+        "body": "onStateSwitchStop",
+        "description": "Framer: onStateSwitchStop"
+    },
+    "Framer: onStateSwitchEnd": {
+        "prefix": "onStateSwitchEnd",
+        "body": "onStateSwitchEnd",
+        "description": "Framer: onStateSwitchEnd"
+    },
+    "Framer: Events.Move": {
+        "prefix": "Events.Move",
+        "body": "Events.Move",
+        "description": "Framer: Events.Move"
+    },
+    "Framer: Events.DragStart": {
+        "prefix": "Events.DragStart",
+        "body": "Events.DragStart",
+        "description": "Framer: Events.DragStart"
+    },
+    "Framer: Events.Drag": {
+        "prefix": "Events.Drag",
+        "body": "Events.Drag",
+        "description": "Framer: Events.Drag"
+    },
+    "Framer: Events.DragEnd": {
+        "prefix": "Events.DragEnd",
+        "body": "Events.DragEnd",
+        "description": "Framer: Events.DragEnd"
+    },
+    "Framer: Events.DragAnimationStart": {
+        "prefix": "Events.DragAnimationStart",
+        "body": "Events.DragAnimationStart",
+        "description": "Framer: Events.DragAnimationStart"
+    },
+    "Framer: Events.DragAnimationEnd": {
+        "prefix": "Events.DragAnimationEnd",
+        "body": "Events.DragAnimationEnd",
+        "description": "Framer: Events.DragAnimationEnd"
+    },
+    "Framer: Events.DirectionLockStart": {
+        "prefix": "Events.DirectionLockStart",
+        "body": "Events.DirectionLockStart",
+        "description": "Framer: Events.DirectionLockStart"
+    },
+    "Framer: onMove": {
+        "prefix": "onMove",
+        "body": "onMove",
+        "description": "Framer: onMove"
+    },
+    "Framer: onDragStart": {
+        "prefix": "onDragStart",
+        "body": "onDragStart",
+        "description": "Framer: onDragStart"
+    },
+    "Framer: onDrag": {
+        "prefix": "onDrag",
+        "body": "onDrag",
+        "description": "Framer: onDrag"
+    },
+    "Framer: onDragEnd": {
+        "prefix": "onDragEnd",
+        "body": "onDragEnd",
+        "description": "Framer: onDragEnd"
+    },
+    "Framer: onDragAnimationStart": {
+        "prefix": "onDragAnimationStart",
+        "body": "onDragAnimationStart",
+        "description": "Framer: onDragAnimationStart"
+    },
+    "Framer: onDragAnimationEnd": {
+        "prefix": "onDragAnimationEnd",
+        "body": "onDragAnimationEnd",
+        "description": "Framer: onDragAnimationEnd"
+    },
+    "Framer: onDirectionLockStart": {
+        "prefix": "onDirectionLockStart",
+        "body": "onDirectionLockStart",
+        "description": "Framer: onDirectionLockStart"
+    },
+    "Framer: Events.ScrollStart": {
+        "prefix": "Events.ScrollStart",
+        "body": "Events.ScrollStart",
+        "description": "Framer: Events.ScrollStart"
+    },
+    "Framer: Events.Scroll": {
+        "prefix": "Events.Scroll",
+        "body": "Events.Scroll",
+        "description": "Framer: Events.Scroll"
+    },
+    "Framer: Events.ScrollEnd": {
+        "prefix": "Events.ScrollEnd",
+        "body": "Events.ScrollEnd",
+        "description": "Framer: Events.ScrollEnd"
+    },
+    "Framer: Events.ScrollAnimationDidStart": {
+        "prefix": "Events.ScrollAnimationDidStart",
+        "body": "Events.ScrollAnimationDidStart",
+        "description": "Framer: Events.ScrollAnimationDidStart"
+    },
+    "Framer: Events.ScrollAnimationDidEnd": {
+        "prefix": "Events.ScrollAnimationDidEnd",
+        "body": "Events.ScrollAnimationDidEnd",
+        "description": "Framer: Events.ScrollAnimationDidEnd"
+    },
+    "Framer: onScrollStart": {
+        "prefix": "onScrollStart",
+        "body": "onScrollStart",
+        "description": "Framer: onScrollStart"
+    },
+    "Framer: onScroll": {
+        "prefix": "onScroll",
+        "body": "onScroll",
+        "description": "Framer: onScroll"
+    },
+    "Framer: onScrollEnd": {
+        "prefix": "onScrollEnd",
+        "body": "onScrollEnd",
+        "description": "Framer: onScrollEnd"
+    },
+    "Framer: onScrollAnimationDidStart": {
+        "prefix": "onScrollAnimationDidStart",
+        "body": "onScrollAnimationDidStart",
+        "description": "Framer: onScrollAnimationDidStart"
+    },
+    "Framer: onScrollAnimationDidEnd": {
+        "prefix": "onScrollAnimationDidEnd",
+        "body": "onScrollAnimationDidEnd",
+        "description": "Framer: onScrollAnimationDidEnd"
+    },
+    "Framer: Events.EdgeSwipe": {
+        "prefix": "Events.EdgeSwipe",
+        "body": "Events.EdgeSwipe",
+        "description": "Framer: Events.EdgeSwipe"
+    },
+    "Framer: Events.EdgeSwipeStart": {
+        "prefix": "Events.EdgeSwipeStart",
+        "body": "Events.EdgeSwipeStart",
+        "description": "Framer: Events.EdgeSwipeStart"
+    },
+    "Framer: Events.EdgeSwipeEnd": {
+        "prefix": "Events.EdgeSwipeEnd",
+        "body": "Events.EdgeSwipeEnd",
+        "description": "Framer: Events.EdgeSwipeEnd"
+    },
+    "Framer: onEdgeSwipe": {
+        "prefix": "onEdgeSwipe",
+        "body": "onEdgeSwipe",
+        "description": "Framer: onEdgeSwipe"
+    },
+    "Framer: onEdgeSwipeStart": {
+        "prefix": "onEdgeSwipeStart",
+        "body": "onEdgeSwipeStart",
+        "description": "Framer: onEdgeSwipeStart"
+    },
+    "Framer: onEdgeSwipeEnd": {
+        "prefix": "onEdgeSwipeEnd",
+        "body": "onEdgeSwipeEnd",
+        "description": "Framer: onEdgeSwipeEnd"
+    },
+    "Framer: Events.EdgeSwipeTop": {
+        "prefix": "Events.EdgeSwipeTop",
+        "body": "Events.EdgeSwipeTop",
+        "description": "Framer: Events.EdgeSwipeTop"
+    },
+    "Framer: Events.EdgeSwipeTopStart": {
+        "prefix": "Events.EdgeSwipeTopStart",
+        "body": "Events.EdgeSwipeTopStart",
+        "description": "Framer: Events.EdgeSwipeTopStart"
+    },
+    "Framer: Events.EdgeSwipeTopEnd": {
+        "prefix": "Events.EdgeSwipeTopEnd",
+        "body": "Events.EdgeSwipeTopEnd",
+        "description": "Framer: Events.EdgeSwipeTopEnd"
+    },
+    "Framer: onEdgeSwipeTop": {
+        "prefix": "onEdgeSwipeTop",
+        "body": "onEdgeSwipeTop",
+        "description": "Framer: onEdgeSwipeTop"
+    },
+    "Framer: onEdgeSwipeTopStart": {
+        "prefix": "onEdgeSwipeTopStart",
+        "body": "onEdgeSwipeTopStart",
+        "description": "Framer: onEdgeSwipeTopStart"
+    },
+    "Framer: onEdgeSwipeTopEnd": {
+        "prefix": "onEdgeSwipeTopEnd",
+        "body": "onEdgeSwipeTopEnd",
+        "description": "Framer: onEdgeSwipeTopEnd"
+    },
+    "Framer: Events.EdgeSwipeLeft": {
+        "prefix": "Events.EdgeSwipeLeft",
+        "body": "Events.EdgeSwipeLeft",
+        "description": "Framer: Events.EdgeSwipeLeft"
+    },
+    "Framer: Events.EdgeSwipeLeftStart": {
+        "prefix": "Events.EdgeSwipeLeftStart",
+        "body": "Events.EdgeSwipeLeftStart",
+        "description": "Framer: Events.EdgeSwipeLeftStart"
+    },
+    "Framer: Events.EdgeSwipeLeftEnd": {
+        "prefix": "Events.EdgeSwipeLeftEnd",
+        "body": "Events.EdgeSwipeLeftEnd",
+        "description": "Framer: Events.EdgeSwipeLeftEnd"
+    },
+    "Framer: onEdgeSwipeLeft": {
+        "prefix": "onEdgeSwipeLeft",
+        "body": "onEdgeSwipeLeft",
+        "description": "Framer: onEdgeSwipeLeft"
+    },
+    "Framer: onEdgeSwipeLeftStart": {
+        "prefix": "onEdgeSwipeLeftStart",
+        "body": "onEdgeSwipeLeftStart",
+        "description": "Framer: onEdgeSwipeLeftStart"
+    },
+    "Framer: onEdgeSwipeLeftEnd": {
+        "prefix": "onEdgeSwipeLeftEnd",
+        "body": "onEdgeSwipeLeftEnd",
+        "description": "Framer: onEdgeSwipeLeftEnd"
+    },
+    "Framer: Events.EdgeSwipeRight": {
+        "prefix": "Events.EdgeSwipeRight",
+        "body": "Events.EdgeSwipeRight",
+        "description": "Framer: Events.EdgeSwipeRight"
+    },
+    "Framer: Events.EdgeSwipeRightStart": {
+        "prefix": "Events.EdgeSwipeRightStart",
+        "body": "Events.EdgeSwipeRightStart",
+        "description": "Framer: Events.EdgeSwipeRightStart"
+    },
+    "Framer: Events.EdgeSwipeRightEnd": {
+        "prefix": "Events.EdgeSwipeRightEnd",
+        "body": "Events.EdgeSwipeRightEnd",
+        "description": "Framer: Events.EdgeSwipeRightEnd"
+    },
+    "Framer: onEdgeSwipeRight": {
+        "prefix": "onEdgeSwipeRight",
+        "body": "onEdgeSwipeRight",
+        "description": "Framer: onEdgeSwipeRight"
+    },
+    "Framer: onEdgeSwipeRightStart": {
+        "prefix": "onEdgeSwipeRightStart",
+        "body": "onEdgeSwipeRightStart",
+        "description": "Framer: onEdgeSwipeRightStart"
+    },
+    "Framer: onEdgeSwipeRightEnd": {
+        "prefix": "onEdgeSwipeRightEnd",
+        "body": "onEdgeSwipeRightEnd",
+        "description": "Framer: onEdgeSwipeRightEnd"
+    },
+    "Framer: Events.EdgeSwipeBottom": {
+        "prefix": "Events.EdgeSwipeBottom",
+        "body": "Events.EdgeSwipeBottom",
+        "description": "Framer: Events.EdgeSwipeBottom"
+    },
+    "Framer: Events.EdgeSwipeBottomStart": {
+        "prefix": "Events.EdgeSwipeBottomStart",
+        "body": "Events.EdgeSwipeBottomStart",
+        "description": "Framer: Events.EdgeSwipeBottomStart"
+    },
+    "Framer: Events.EdgeSwipeBottomEnd": {
+        "prefix": "Events.EdgeSwipeBottomEnd",
+        "body": "Events.EdgeSwipeBottomEnd",
+        "description": "Framer: Events.EdgeSwipeBottomEnd"
+    },
+    "Framer: onEdgeSwipeBottom": {
+        "prefix": "onEdgeSwipeBottom",
+        "body": "onEdgeSwipeBottom",
+        "description": "Framer: onEdgeSwipeBottom"
+    },
+    "Framer: onEdgeSwipeBottomStart": {
+        "prefix": "onEdgeSwipeBottomStart",
+        "body": "onEdgeSwipeBottomStart",
+        "description": "Framer: onEdgeSwipeBottomStart"
+    },
+    "Framer: onEdgeSwipeBottomEnd": {
+        "prefix": "onEdgeSwipeBottomEnd",
+        "body": "onEdgeSwipeBottomEnd",
+        "description": "Framer: onEdgeSwipeBottomEnd"
+    },
+    "Framer: Events.TransitionStart": {
+        "prefix": "Events.TransitionStart",
+        "body": "Events.TransitionStart",
+        "description": "Framer: Events.TransitionStart"
+    },
+    "Framer: Events.TransitionHalt": {
+        "prefix": "Events.TransitionHalt",
+        "body": "Events.TransitionHalt",
+        "description": "Framer: Events.TransitionHalt"
+    },
+    "Framer: Events.TransitionStop": {
+        "prefix": "Events.TransitionStop",
+        "body": "Events.TransitionStop",
+        "description": "Framer: Events.TransitionStop"
+    },
+    "Framer: Events.TransitionEnd": {
+        "prefix": "Events.TransitionEnd",
+        "body": "Events.TransitionEnd",
+        "description": "Framer: Events.TransitionEnd"
+    },
+    "Framer: onTransitionStart": {
+        "prefix": "onTransitionStart",
+        "body": "onTransitionStart",
+        "description": "Framer: onTransitionStart"
+    },
+    "Framer: onTransitionHalt": {
+        "prefix": "onTransitionHalt",
+        "body": "onTransitionHalt",
+        "description": "Framer: onTransitionHalt"
+    },
+    "Framer: onTransitionStop": {
+        "prefix": "onTransitionStop",
+        "body": "onTransitionStop",
+        "description": "Framer: onTransitionStop"
+    },
+    "Framer: onTransitionEnd": {
+        "prefix": "onTransitionEnd",
+        "body": "onTransitionEnd",
+        "description": "Framer: onTransitionEnd"
+    },
+    "Framer: event.point": {
+        "prefix": "event.point",
+        "body": "event.point",
+        "description": "Framer: event.point"
+    },
+    "Framer: event.start": {
+        "prefix": "event.start",
+        "body": "event.start",
+        "description": "Framer: event.start"
+    },
+    "Framer: event.previous": {
+        "prefix": "event.previous",
+        "body": "event.previous",
+        "description": "Framer: event.previous"
+    },
+    "Framer: event.offset": {
+        "prefix": "event.offset",
+        "body": "event.offset",
+        "description": "Framer: event.offset"
+    },
+    "Framer: event.offsetTime": {
+        "prefix": "event.offsetTime",
+        "body": "event.offsetTime",
+        "description": "Framer: event.offsetTime"
+    },
+    "Framer: event.offsetAngle": {
+        "prefix": "event.offsetAngle",
+        "body": "event.offsetAngle",
+        "description": "Framer: event.offsetAngle"
+    },
+    "Framer: event.offsetDirection": {
+        "prefix": "event.offsetDirection",
+        "body": "event.offsetDirection",
+        "description": "Framer: event.offsetDirection"
+    },
+    "Framer: event.delta": {
+        "prefix": "event.delta",
+        "body": "event.delta",
+        "description": "Framer: event.delta"
+    },
+    "Framer: event.deltaTime": {
+        "prefix": "event.deltaTime",
+        "body": "event.deltaTime",
+        "description": "Framer: event.deltaTime"
+    },
+    "Framer: event.deltaAngle": {
+        "prefix": "event.deltaAngle",
+        "body": "event.deltaAngle",
+        "description": "Framer: event.deltaAngle"
+    },
+    "Framer: event.deltaDirection": {
+        "prefix": "event.deltaDirection",
+        "body": "event.deltaDirection",
+        "description": "Framer: event.deltaDirection"
+    },
+    "Framer: event.velocity": {
+        "prefix": "event.velocity",
+        "body": "event.velocity",
+        "description": "Framer: event.velocity"
+    },
+    "Framer: event.force": {
+        "prefix": "event.force",
+        "body": "event.force",
+        "description": "Framer: event.force"
+    },
+    "Framer: event.fingers": {
+        "prefix": "event.fingers",
+        "body": "event.fingers",
+        "description": "Framer: event.fingers"
+    },
+    "Framer: event.touchCenter": {
+        "prefix": "event.touchCenter",
+        "body": "event.touchCenter",
+        "description": "Framer: event.touchCenter"
+    },
+    "Framer: event.touchDistance": {
+        "prefix": "event.touchDistance",
+        "body": "event.touchDistance",
+        "description": "Framer: event.touchDistance"
+    },
+    "Framer: event.touchOffset": {
+        "prefix": "event.touchOffset",
+        "body": "event.touchOffset",
+        "description": "Framer: event.touchOffset"
+    },
+    "Framer: event.scale": {
+        "prefix": "event.scale",
+        "body": "event.scale",
+        "description": "Framer: event.scale"
+    },
+    "Framer: event.scaleDirection": {
+        "prefix": "event.scaleDirection",
+        "body": "event.scaleDirection",
+        "description": "Framer: event.scaleDirection"
+    },
+    "Framer: event.rotation": {
+        "prefix": "event.rotation",
+        "body": "event.rotation",
+        "description": "Framer: event.rotation"
+    },
+    "Framer: Events.touchEvent($1)": {
+        "prefix": "Events.touchEvent($1)",
+        "body": "Events.touchEvent($1)",
+        "description": "Framer: Events.touchEvent($1)"
+    },
+    "Framer: Events.wrap($1)": {
+        "prefix": "Events.wrap($1)",
+        "body": "Events.wrap($1)",
+        "description": "Framer: Events.wrap($1)"
+    },
+    "Framer: new FlowComponent": {
+        "prefix": "new FlowComponent",
+        "body": "new FlowComponent",
+        "description": "Framer: new FlowComponent"
+    },
+    "Framer: flow.showNext($1,$2)": {
+        "prefix": "flow.showNext($1,$2)",
+        "body": "flow.showNext($1,$2)",
+        "description": "Framer: flow.showNext($1,$2)"
+    },
+    "Framer: flow.showPrevious($1)": {
+        "prefix": "flow.showPrevious($1)",
+        "body": "flow.showPrevious($1)",
+        "description": "Framer: flow.showPrevious($1)"
+    },
+    "Framer: flow.showOverlayCenter($1,$2)": {
+        "prefix": "flow.showOverlayCenter($1,$2)",
+        "body": "flow.showOverlayCenter($1,$2)",
+        "description": "Framer: flow.showOverlayCenter($1,$2)"
+    },
+    "Framer: flow.showOverlayTop($1,$2)": {
+        "prefix": "flow.showOverlayTop($1,$2)",
+        "body": "flow.showOverlayTop($1,$2)",
+        "description": "Framer: flow.showOverlayTop($1,$2)"
+    },
+    "Framer: flow.showOverlayRight($1,$2)": {
+        "prefix": "flow.showOverlayRight($1,$2)",
+        "body": "flow.showOverlayRight($1,$2)",
+        "description": "Framer: flow.showOverlayRight($1,$2)"
+    },
+    "Framer: flow.showOverlayBottom($1,$2)": {
+        "prefix": "flow.showOverlayBottom($1,$2)",
+        "body": "flow.showOverlayBottom($1,$2)",
+        "description": "Framer: flow.showOverlayBottom($1,$2)"
+    },
+    "Framer: flow.showOverlayLeft($1,$2)": {
+        "prefix": "flow.showOverlayLeft($1,$2)",
+        "body": "flow.showOverlayLeft($1,$2)",
+        "description": "Framer: flow.showOverlayLeft($1,$2)"
+    },
+    "Framer: flow.transition($1,$2,$3)": {
+        "prefix": "flow.transition($1,$2,$3)",
+        "body": "flow.transition($1,$2,$3)",
+        "description": "Framer: flow.transition($1,$2,$3)"
+    },
+    "Framer: flow.header": {
+        "prefix": "flow.header",
+        "body": "flow.header",
+        "description": "Framer: flow.header"
+    },
+    "Framer: flow.footer": {
+        "prefix": "flow.footer",
+        "body": "flow.footer",
+        "description": "Framer: flow.footer"
+    },
+    "Framer: new Layer": {
+        "prefix": "new Layer",
+        "body": "new Layer",
+        "description": "Framer: new Layer"
+    },
+    "Framer: layer.id": {
+        "prefix": "layer.id",
+        "body": "layer.id",
+        "description": "Framer: layer.id"
+    },
+    "Framer: layer.name": {
+        "prefix": "layer.name",
+        "body": "layer.name",
+        "description": "Framer: layer.name"
+    },
+    "Framer: layer.x": {
+        "prefix": "layer.x",
+        "body": "layer.x",
+        "description": "Framer: layer.x"
+    },
+    "Framer: layer.y": {
+        "prefix": "layer.y",
+        "body": "layer.y",
+        "description": "Framer: layer.y"
+    },
+    "Framer: layer.z": {
+        "prefix": "layer.z",
+        "body": "layer.z",
+        "description": "Framer: layer.z"
+    },
+    "Framer: layer.width": {
+        "prefix": "layer.width",
+        "body": "layer.width",
+        "description": "Framer: layer.width"
+    },
+    "Framer: layer.height": {
+        "prefix": "layer.height",
+        "body": "layer.height",
+        "description": "Framer: layer.height"
+    },
+    "Framer: layer.minX": {
+        "prefix": "layer.minX",
+        "body": "layer.minX",
+        "description": "Framer: layer.minX"
+    },
+    "Framer: layer.midX": {
+        "prefix": "layer.midX",
+        "body": "layer.midX",
+        "description": "Framer: layer.midX"
+    },
+    "Framer: layer.maxX": {
+        "prefix": "layer.maxX",
+        "body": "layer.maxX",
+        "description": "Framer: layer.maxX"
+    },
+    "Framer: layer.minY": {
+        "prefix": "layer.minY",
+        "body": "layer.minY",
+        "description": "Framer: layer.minY"
+    },
+    "Framer: layer.midY": {
+        "prefix": "layer.midY",
+        "body": "layer.midY",
+        "description": "Framer: layer.midY"
+    },
+    "Framer: layer.maxY": {
+        "prefix": "layer.maxY",
+        "body": "layer.maxY",
+        "description": "Framer: layer.maxY"
+    },
+    "Framer: layer.point": {
+        "prefix": "layer.point",
+        "body": "layer.point",
+        "description": "Framer: layer.point"
+    },
+    "Framer: layer.size": {
+        "prefix": "layer.size",
+        "body": "layer.size",
+        "description": "Framer: layer.size"
+    },
+    "Framer: layer.frame": {
+        "prefix": "layer.frame",
+        "body": "layer.frame",
+        "description": "Framer: layer.frame"
+    },
+    "Framer: layer.props": {
+        "prefix": "layer.props",
+        "body": "layer.props",
+        "description": "Framer: layer.props"
+    },
+    "Framer: layer.center()": {
+        "prefix": "layer.center()",
+        "body": "layer.center()",
+        "description": "Framer: layer.center()"
+    },
+    "Framer: layer.centerX($1)": {
+        "prefix": "layer.centerX($1)",
+        "body": "layer.centerX($1)",
+        "description": "Framer: layer.centerX($1)"
+    },
+    "Framer: layer.centerY($1)": {
+        "prefix": "layer.centerY($1)",
+        "body": "layer.centerY($1)",
+        "description": "Framer: layer.centerY($1)"
+    },
+    "Framer: layer.pixelAlign()": {
+        "prefix": "layer.pixelAlign()",
+        "body": "layer.pixelAlign()",
+        "description": "Framer: layer.pixelAlign()"
+    },
+    "Framer: layer.screenFrame": {
+        "prefix": "layer.screenFrame",
+        "body": "layer.screenFrame",
+        "description": "Framer: layer.screenFrame"
+    },
+    "Framer: layer.contentFrame()": {
+        "prefix": "layer.contentFrame()",
+        "body": "layer.contentFrame()",
+        "description": "Framer: layer.contentFrame()"
+    },
+    "Framer: layer.centerFrame()": {
+        "prefix": "layer.centerFrame()",
+        "body": "layer.centerFrame()",
+        "description": "Framer: layer.centerFrame()"
+    },
+    "Framer: layer.backgroundColor": {
+        "prefix": "layer.backgroundColor",
+        "body": "layer.backgroundColor",
+        "description": "Framer: layer.backgroundColor"
+    },
+    "Framer: layer.color": {
+        "prefix": "layer.color",
+        "body": "layer.color",
+        "description": "Framer: layer.color"
+    },
+    "Framer: layer.image": {
+        "prefix": "layer.image",
+        "body": "layer.image",
+        "description": "Framer: layer.image"
+    },
+    "Framer: layer.visible": {
+        "prefix": "layer.visible",
+        "body": "layer.visible",
+        "description": "Framer: layer.visible"
+    },
+    "Framer: layer.opacity": {
+        "prefix": "layer.opacity",
+        "body": "layer.opacity",
+        "description": "Framer: layer.opacity"
+    },
+    "Framer: layer.clip": {
+        "prefix": "layer.clip",
+        "body": "layer.clip",
+        "description": "Framer: layer.clip"
+    },
+    "Framer: layer.ignoreEvents": {
+        "prefix": "layer.ignoreEvents",
+        "body": "layer.ignoreEvents",
+        "description": "Framer: layer.ignoreEvents"
+    },
+    "Framer: layer.originX": {
+        "prefix": "layer.originX",
+        "body": "layer.originX",
+        "description": "Framer: layer.originX"
+    },
+    "Framer: layer.originY": {
+        "prefix": "layer.originY",
+        "body": "layer.originY",
+        "description": "Framer: layer.originY"
+    },
+    "Framer: layer.originZ": {
+        "prefix": "layer.originZ",
+        "body": "layer.originZ",
+        "description": "Framer: layer.originZ"
+    },
+    "Framer: layer.perspective": {
+        "prefix": "layer.perspective",
+        "body": "layer.perspective",
+        "description": "Framer: layer.perspective"
+    },
+    "Framer: layer.flat": {
+        "prefix": "layer.flat",
+        "body": "layer.flat",
+        "description": "Framer: layer.flat"
+    },
+    "Framer: layer.backfaceVisible": {
+        "prefix": "layer.backfaceVisible",
+        "body": "layer.backfaceVisible",
+        "description": "Framer: layer.backfaceVisible"
+    },
+    "Framer: layer.rotation": {
+        "prefix": "layer.rotation",
+        "body": "layer.rotation",
+        "description": "Framer: layer.rotation"
+    },
+    "Framer: layer.rotationX": {
+        "prefix": "layer.rotationX",
+        "body": "layer.rotationX",
+        "description": "Framer: layer.rotationX"
+    },
+    "Framer: layer.rotationY": {
+        "prefix": "layer.rotationY",
+        "body": "layer.rotationY",
+        "description": "Framer: layer.rotationY"
+    },
+    "Framer: layer.rotationZ": {
+        "prefix": "layer.rotationZ",
+        "body": "layer.rotationZ",
+        "description": "Framer: layer.rotationZ"
+    },
+    "Framer: layer.scale": {
+        "prefix": "layer.scale",
+        "body": "layer.scale",
+        "description": "Framer: layer.scale"
+    },
+    "Framer: layer.scaleX": {
+        "prefix": "layer.scaleX",
+        "body": "layer.scaleX",
+        "description": "Framer: layer.scaleX"
+    },
+    "Framer: layer.scaleY": {
+        "prefix": "layer.scaleY",
+        "body": "layer.scaleY",
+        "description": "Framer: layer.scaleY"
+    },
+    "Framer: layer.parent": {
+        "prefix": "layer.parent",
+        "body": "layer.parent",
+        "description": "Framer: layer.parent"
+    },
+    "Framer: layer.children": {
+        "prefix": "layer.children",
+        "body": "layer.children",
+        "description": "Framer: layer.children"
+    },
+    "Framer: layer.childrenWithName($1)": {
+        "prefix": "layer.childrenWithName($1)",
+        "body": "layer.childrenWithName($1)",
+        "description": "Framer: layer.childrenWithName($1)"
+    },
+    "Framer: layer.siblings": {
+        "prefix": "layer.siblings",
+        "body": "layer.siblings",
+        "description": "Framer: layer.siblings"
+    },
+    "Framer: layer.siblingsWithName($1)": {
+        "prefix": "layer.siblingsWithName($1)",
+        "body": "layer.siblingsWithName($1)",
+        "description": "Framer: layer.siblingsWithName($1)"
+    },
+    "Framer: layer.descendants": {
+        "prefix": "layer.descendants",
+        "body": "layer.descendants",
+        "description": "Framer: layer.descendants"
+    },
+    "Framer: layer.ancestors($1)": {
+        "prefix": "layer.ancestors($1)",
+        "body": "layer.ancestors($1)",
+        "description": "Framer: layer.ancestors($1)"
+    },
+    "Framer: layer.addChild($1)": {
+        "prefix": "layer.addChild($1)",
+        "body": "layer.addChild($1)",
+        "description": "Framer: layer.addChild($1)"
+    },
+    "Framer: layer.removeChild($1)": {
+        "prefix": "layer.removeChild($1)",
+        "body": "layer.removeChild($1)",
+        "description": "Framer: layer.removeChild($1)"
+    },
+    "Framer: layer.index": {
+        "prefix": "layer.index",
+        "body": "layer.index",
+        "description": "Framer: layer.index"
+    },
+    "Framer: layer.placeBefore($1)": {
+        "prefix": "layer.placeBefore($1)",
+        "body": "layer.placeBefore($1)",
+        "description": "Framer: layer.placeBefore($1)"
+    },
+    "Framer: layer.placeBehind($1)": {
+        "prefix": "layer.placeBehind($1)",
+        "body": "layer.placeBehind($1)",
+        "description": "Framer: layer.placeBehind($1)"
+    },
+    "Framer: layer.bringToFront()": {
+        "prefix": "layer.bringToFront()",
+        "body": "layer.bringToFront()",
+        "description": "Framer: layer.bringToFront()"
+    },
+    "Framer: layer.sendToBack()": {
+        "prefix": "layer.sendToBack()",
+        "body": "layer.sendToBack()",
+        "description": "Framer: layer.sendToBack()"
+    },
+    "Framer: layer.html": {
+        "prefix": "layer.html",
+        "body": "layer.html",
+        "description": "Framer: layer.html"
+    },
+    "Framer: layer.style": {
+        "prefix": "layer.style",
+        "body": "layer.style",
+        "description": "Framer: layer.style"
+    },
+    "Framer: layer.computedStyle()": {
+        "prefix": "layer.computedStyle()",
+        "body": "layer.computedStyle()",
+        "description": "Framer: layer.computedStyle()"
+    },
+    "Framer: layer.classList": {
+        "prefix": "layer.classList",
+        "body": "layer.classList",
+        "description": "Framer: layer.classList"
+    },
+    "Framer: layer.destroy()": {
+        "prefix": "layer.destroy()",
+        "body": "layer.destroy()",
+        "description": "Framer: layer.destroy()"
+    },
+    "Framer: layer.copy()": {
+        "prefix": "layer.copy()",
+        "body": "layer.copy()",
+        "description": "Framer: layer.copy()"
+    },
+    "Framer: layer.copySingle()": {
+        "prefix": "layer.copySingle()",
+        "body": "layer.copySingle()",
+        "description": "Framer: layer.copySingle()"
+    },
+    "Framer: layer.blur": {
+        "prefix": "layer.blur",
+        "body": "layer.blur",
+        "description": "Framer: layer.blur"
+    },
+    "Framer: layer.brightness": {
+        "prefix": "layer.brightness",
+        "body": "layer.brightness",
+        "description": "Framer: layer.brightness"
+    },
+    "Framer: layer.saturate": {
+        "prefix": "layer.saturate",
+        "body": "layer.saturate",
+        "description": "Framer: layer.saturate"
+    },
+    "Framer: layer.hueRotate": {
+        "prefix": "layer.hueRotate",
+        "body": "layer.hueRotate",
+        "description": "Framer: layer.hueRotate"
+    },
+    "Framer: layer.contrast": {
+        "prefix": "layer.contrast",
+        "body": "layer.contrast",
+        "description": "Framer: layer.contrast"
+    },
+    "Framer: layer.invert": {
+        "prefix": "layer.invert",
+        "body": "layer.invert",
+        "description": "Framer: layer.invert"
+    },
+    "Framer: layer.grayscale": {
+        "prefix": "layer.grayscale",
+        "body": "layer.grayscale",
+        "description": "Framer: layer.grayscale"
+    },
+    "Framer: layer.sepia": {
+        "prefix": "layer.sepia",
+        "body": "layer.sepia",
+        "description": "Framer: layer.sepia"
+    },
+    "Framer: layer.shadowX": {
+        "prefix": "layer.shadowX",
+        "body": "layer.shadowX",
+        "description": "Framer: layer.shadowX"
+    },
+    "Framer: layer.shadowY": {
+        "prefix": "layer.shadowY",
+        "body": "layer.shadowY",
+        "description": "Framer: layer.shadowY"
+    },
+    "Framer: layer.shadowBlur": {
+        "prefix": "layer.shadowBlur",
+        "body": "layer.shadowBlur",
+        "description": "Framer: layer.shadowBlur"
+    },
+    "Framer: layer.shadowSpread": {
+        "prefix": "layer.shadowSpread",
+        "body": "layer.shadowSpread",
+        "description": "Framer: layer.shadowSpread"
+    },
+    "Framer: layer.shadowColor": {
+        "prefix": "layer.shadowColor",
+        "body": "layer.shadowColor",
+        "description": "Framer: layer.shadowColor"
+    },
+    "Framer: layer.borderRadius": {
+        "prefix": "layer.borderRadius",
+        "body": "layer.borderRadius",
+        "description": "Framer: layer.borderRadius"
+    },
+    "Framer: layer.borderColor": {
+        "prefix": "layer.borderColor",
+        "body": "layer.borderColor",
+        "description": "Framer: layer.borderColor"
+    },
+    "Framer: layer.borderWidth": {
+        "prefix": "layer.borderWidth",
+        "body": "layer.borderWidth",
+        "description": "Framer: layer.borderWidth"
+    },
+    "Framer: layer.animate($1)": {
+        "prefix": "layer.animate($1)",
+        "body": "layer.animate($1)",
+        "description": "Framer: layer.animate($1)"
+    },
+    "Framer: layer.animationOptions": {
+        "prefix": "layer.animationOptions",
+        "body": "layer.animationOptions",
+        "description": "Framer: layer.animationOptions"
+    },
+    "Framer: curve": {
+        "prefix": "curve",
+        "body": "curve",
+        "description": "Framer: curve"
+    },
+    "Framer: curveOptions": {
+        "prefix": "curveOptions",
+        "body": "curveOptions",
+        "description": "Framer: curveOptions"
+    },
+    "Framer: time": {
+        "prefix": "time",
+        "body": "time",
+        "description": "Framer: time"
+    },
+    "Framer: delay": {
+        "prefix": "delay",
+        "body": "delay",
+        "description": "Framer: delay"
+    },
+    "Framer: repeat": {
+        "prefix": "repeat",
+        "body": "repeat",
+        "description": "Framer: repeat"
+    },
+    "Framer: colorModel": {
+        "prefix": "colorModel",
+        "body": "colorModel",
+        "description": "Framer: colorModel"
+    },
+    "Framer: instant": {
+        "prefix": "instant",
+        "body": "instant",
+        "description": "Framer: instant"
+    },
+    "Framer: layer.animations()": {
+        "prefix": "layer.animations()",
+        "body": "layer.animations()",
+        "description": "Framer: layer.animations()"
+    },
+    "Framer: layer.isAnimating": {
+        "prefix": "layer.isAnimating",
+        "body": "layer.isAnimating",
+        "description": "Framer: layer.isAnimating"
+    },
+    "Framer: layer.animateStop()": {
+        "prefix": "layer.animateStop()",
+        "body": "layer.animateStop()",
+        "description": "Framer: layer.animateStop()"
+    },
+    "Framer: layer.stateSwitch($1)": {
+        "prefix": "layer.stateSwitch($1)",
+        "body": "layer.stateSwitch($1)",
+        "description": "Framer: layer.stateSwitch($1)"
+    },
+    "Framer: layer.stateCycle($1,$2)": {
+        "prefix": "layer.stateCycle($1,$2)",
+        "body": "layer.stateCycle($1,$2)",
+        "description": "Framer: layer.stateCycle($1,$2)"
+    },
+    "Framer: layer.stateNames": {
+        "prefix": "layer.stateNames",
+        "body": "layer.stateNames",
+        "description": "Framer: layer.stateNames"
+    },
+    "Framer: layer.convertPointToCanvas($1)": {
+        "prefix": "layer.convertPointToCanvas($1)",
+        "body": "layer.convertPointToCanvas($1)",
+        "description": "Framer: layer.convertPointToCanvas($1)"
+    },
+    "Framer: layer.convertPointToScreen($1)": {
+        "prefix": "layer.convertPointToScreen($1)",
+        "body": "layer.convertPointToScreen($1)",
+        "description": "Framer: layer.convertPointToScreen($1)"
+    },
+    "Framer: layer.convertPointToLayer($1,$2)": {
+        "prefix": "layer.convertPointToLayer($1,$2)",
+        "body": "layer.convertPointToLayer($1,$2)",
+        "description": "Framer: layer.convertPointToLayer($1,$2)"
+    },
+    "Framer: layer.on($1,$2)": {
+        "prefix": "layer.on($1,$2)",
+        "body": "layer.on($1,$2)",
+        "description": "Framer: layer.on($1,$2)"
+    },
+    "Framer: layer.off($1,$2)": {
+        "prefix": "layer.off($1,$2)",
+        "body": "layer.off($1,$2)",
+        "description": "Framer: layer.off($1,$2)"
+    },
+    "Framer: new MIDIComponent": {
+        "prefix": "new MIDIComponent",
+        "body": "new MIDIComponent",
+        "description": "Framer: new MIDIComponent"
+    },
+    "Framer: min": {
+        "prefix": "min",
+        "body": "min",
+        "description": "Framer: min"
+    },
+    "Framer: max": {
+        "prefix": "max",
+        "body": "max",
+        "description": "Framer: max"
+    },
+    "Framer: control": {
+        "prefix": "control",
+        "body": "control",
+        "description": "Framer: control"
+    },
+    "Framer: channel": {
+        "prefix": "channel",
+        "body": "channel",
+        "description": "Framer: channel"
+    },
+    "Framer: source": {
+        "prefix": "source",
+        "body": "source",
+        "description": "Framer: source"
+    },
+    "Framer: onValueChange()": {
+        "prefix": "onValueChange()",
+        "body": "onValueChange()",
+        "description": "Framer: onValueChange()"
+    },
+    "Framer: new PageComponent": {
+        "prefix": "new PageComponent",
+        "body": "new PageComponent",
+        "description": "Framer: new PageComponent"
+    },
+    "Framer: page.originX": {
+        "prefix": "page.originX",
+        "body": "page.originX",
+        "description": "Framer: page.originX"
+    },
+    "Framer: page.originY": {
+        "prefix": "page.originY",
+        "body": "page.originY",
+        "description": "Framer: page.originY"
+    },
+    "Framer: page.velocityThreshold": {
+        "prefix": "page.velocityThreshold",
+        "body": "page.velocityThreshold",
+        "description": "Framer: page.velocityThreshold"
+    },
+    "Framer: page.animationOptions": {
+        "prefix": "page.animationOptions",
+        "body": "page.animationOptions",
+        "description": "Framer: page.animationOptions"
+    },
+    "Framer: page.currentPage": {
+        "prefix": "page.currentPage",
+        "body": "page.currentPage",
+        "description": "Framer: page.currentPage"
+    },
+    "Framer: page.closestPage": {
+        "prefix": "page.closestPage",
+        "body": "page.closestPage",
+        "description": "Framer: page.closestPage"
+    },
+    "Framer: page.nextPage($1,$2)": {
+        "prefix": "page.nextPage($1,$2)",
+        "body": "page.nextPage($1,$2)",
+        "description": "Framer: page.nextPage($1,$2)"
+    },
+    "Framer: page.previousPage": {
+        "prefix": "page.previousPage",
+        "body": "page.previousPage",
+        "description": "Framer: page.previousPage"
+    },
+    "Framer: page.snapToPage($1,$2,$3)": {
+        "prefix": "page.snapToPage($1,$2,$3)",
+        "body": "page.snapToPage($1,$2,$3)",
+        "description": "Framer: page.snapToPage($1,$2,$3)"
+    },
+    "Framer: page.snapToNextPage($1,$2,$3)": {
+        "prefix": "page.snapToNextPage($1,$2,$3)",
+        "body": "page.snapToNextPage($1,$2,$3)",
+        "description": "Framer: page.snapToNextPage($1,$2,$3)"
+    },
+    "Framer: page.snapToPreviousPage()": {
+        "prefix": "page.snapToPreviousPage()",
+        "body": "page.snapToPreviousPage()",
+        "description": "Framer: page.snapToPreviousPage()"
+    },
+    "Framer: page.addPage($1)": {
+        "prefix": "page.addPage($1)",
+        "body": "page.addPage($1)",
+        "description": "Framer: page.addPage($1)"
+    },
+    "Framer: page.horizontalPageIndex($1)": {
+        "prefix": "page.horizontalPageIndex($1)",
+        "body": "page.horizontalPageIndex($1)",
+        "description": "Framer: page.horizontalPageIndex($1)"
+    },
+    "Framer: page.verticalPageIndex($1)": {
+        "prefix": "page.verticalPageIndex($1)",
+        "body": "page.verticalPageIndex($1)",
+        "description": "Framer: page.verticalPageIndex($1)"
+    },
+    "Framer: pinchable.enabled": {
+        "prefix": "pinchable.enabled",
+        "body": "pinchable.enabled",
+        "description": "Framer: pinchable.enabled"
+    },
+    "Framer: pinchable.threshold": {
+        "prefix": "pinchable.threshold",
+        "body": "pinchable.threshold",
+        "description": "Framer: pinchable.threshold"
+    },
+    "Framer: pinchable.centerOrigin": {
+        "prefix": "pinchable.centerOrigin",
+        "body": "pinchable.centerOrigin",
+        "description": "Framer: pinchable.centerOrigin"
+    },
+    "Framer: pinchable.scale": {
+        "prefix": "pinchable.scale",
+        "body": "pinchable.scale",
+        "description": "Framer: pinchable.scale"
+    },
+    "Framer: pinchable.scaleIncrements": {
+        "prefix": "pinchable.scaleIncrements",
+        "body": "pinchable.scaleIncrements",
+        "description": "Framer: pinchable.scaleIncrements"
+    },
+    "Framer: pinchable.minScale": {
+        "prefix": "pinchable.minScale",
+        "body": "pinchable.minScale",
+        "description": "Framer: pinchable.minScale"
+    },
+    "Framer: pinchable.maxScale": {
+        "prefix": "pinchable.maxScale",
+        "body": "pinchable.maxScale",
+        "description": "Framer: pinchable.maxScale"
+    },
+    "Framer: pinchable.scaleFactor": {
+        "prefix": "pinchable.scaleFactor",
+        "body": "pinchable.scaleFactor",
+        "description": "Framer: pinchable.scaleFactor"
+    },
+    "Framer: pinchable.rotate": {
+        "prefix": "pinchable.rotate",
+        "body": "pinchable.rotate",
+        "description": "Framer: pinchable.rotate"
+    },
+    "Framer: pinchable.rotateIncrements": {
+        "prefix": "pinchable.rotateIncrements",
+        "body": "pinchable.rotateIncrements",
+        "description": "Framer: pinchable.rotateIncrements"
+    },
+    "Framer: pinchable.rotateFactor": {
+        "prefix": "pinchable.rotateFactor",
+        "body": "pinchable.rotateFactor",
+        "description": "Framer: pinchable.rotateFactor"
+    },
+    "Framer: Screen.backgroundColor": {
+        "prefix": "Screen.backgroundColor",
+        "body": "Screen.backgroundColor",
+        "description": "Framer: Screen.backgroundColor"
+    },
+    "Framer: Screen.width": {
+        "prefix": "Screen.width",
+        "body": "Screen.width",
+        "description": "Framer: Screen.width"
+    },
+    "Framer: Screen.height": {
+        "prefix": "Screen.height",
+        "body": "Screen.height",
+        "description": "Framer: Screen.height"
+    },
+    "Framer: Screen.size": {
+        "prefix": "Screen.size",
+        "body": "Screen.size",
+        "description": "Framer: Screen.size"
+    },
+    "Framer: Screen.frame": {
+        "prefix": "Screen.frame",
+        "body": "Screen.frame",
+        "description": "Framer: Screen.frame"
+    },
+    "Framer: Screen.perspective": {
+        "prefix": "Screen.perspective",
+        "body": "Screen.perspective",
+        "description": "Framer: Screen.perspective"
+    },
+    "Framer: Screen.perspectiveOriginX": {
+        "prefix": "Screen.perspectiveOriginX",
+        "body": "Screen.perspectiveOriginX",
+        "description": "Framer: Screen.perspectiveOriginX"
+    },
+    "Framer: Screen.perspectiveOriginY": {
+        "prefix": "Screen.perspectiveOriginY",
+        "body": "Screen.perspectiveOriginY",
+        "description": "Framer: Screen.perspectiveOriginY"
+    },
+    "Framer: Screen.convertPointToCanvas($1)": {
+        "prefix": "Screen.convertPointToCanvas($1)",
+        "body": "Screen.convertPointToCanvas($1)",
+        "description": "Framer: Screen.convertPointToCanvas($1)"
+    },
+    "Framer: Screen.convertPointToLayer($1,$2)": {
+        "prefix": "Screen.convertPointToLayer($1,$2)",
+        "body": "Screen.convertPointToLayer($1,$2)",
+        "description": "Framer: Screen.convertPointToLayer($1,$2)"
+    },
+    "Framer: new ScrollComponent": {
+        "prefix": "new ScrollComponent",
+        "body": "new ScrollComponent",
+        "description": "Framer: new ScrollComponent"
+    },
+    "Framer: scroll.content": {
+        "prefix": "scroll.content",
+        "body": "scroll.content",
+        "description": "Framer: scroll.content"
+    },
+    "Framer: scroll.contentInset": {
+        "prefix": "scroll.contentInset",
+        "body": "scroll.contentInset",
+        "description": "Framer: scroll.contentInset"
+    },
+    "Framer: scroll.speedX": {
+        "prefix": "scroll.speedX",
+        "body": "scroll.speedX",
+        "description": "Framer: scroll.speedX"
+    },
+    "Framer: scroll.speedY": {
+        "prefix": "scroll.speedY",
+        "body": "scroll.speedY",
+        "description": "Framer: scroll.speedY"
+    },
+    "Framer: scroll.scroll": {
+        "prefix": "scroll.scroll",
+        "body": "scroll.scroll",
+        "description": "Framer: scroll.scroll"
+    },
+    "Framer: scroll.scrollHorizontal": {
+        "prefix": "scroll.scrollHorizontal",
+        "body": "scroll.scrollHorizontal",
+        "description": "Framer: scroll.scrollHorizontal"
+    },
+    "Framer: scroll.scrollVertical": {
+        "prefix": "scroll.scrollVertical",
+        "body": "scroll.scrollVertical",
+        "description": "Framer: scroll.scrollVertical"
+    },
+    "Framer: scroll.scrollX": {
+        "prefix": "scroll.scrollX",
+        "body": "scroll.scrollX",
+        "description": "Framer: scroll.scrollX"
+    },
+    "Framer: scroll.scrollY": {
+        "prefix": "scroll.scrollY",
+        "body": "scroll.scrollY",
+        "description": "Framer: scroll.scrollY"
+    },
+    "Framer: scroll.scrollPoint": {
+        "prefix": "scroll.scrollPoint",
+        "body": "scroll.scrollPoint",
+        "description": "Framer: scroll.scrollPoint"
+    },
+    "Framer: scroll.scrollFrame": {
+        "prefix": "scroll.scrollFrame",
+        "body": "scroll.scrollFrame",
+        "description": "Framer: scroll.scrollFrame"
+    },
+    "Framer: scroll.velocity": {
+        "prefix": "scroll.velocity",
+        "body": "scroll.velocity",
+        "description": "Framer: scroll.velocity"
+    },
+    "Framer: scroll.direction": {
+        "prefix": "scroll.direction",
+        "body": "scroll.direction",
+        "description": "Framer: scroll.direction"
+    },
+    "Framer: scroll.directionLock": {
+        "prefix": "scroll.directionLock",
+        "body": "scroll.directionLock",
+        "description": "Framer: scroll.directionLock"
+    },
+    "Framer: scroll.directionLockThreshold": {
+        "prefix": "scroll.directionLockThreshold",
+        "body": "scroll.directionLockThreshold",
+        "description": "Framer: scroll.directionLockThreshold"
+    },
+    "Framer: scroll.angle": {
+        "prefix": "scroll.angle",
+        "body": "scroll.angle",
+        "description": "Framer: scroll.angle"
+    },
+    "Framer: scroll.isDragging": {
+        "prefix": "scroll.isDragging",
+        "body": "scroll.isDragging",
+        "description": "Framer: scroll.isDragging"
+    },
+    "Framer: scroll.isMoving": {
+        "prefix": "scroll.isMoving",
+        "body": "scroll.isMoving",
+        "description": "Framer: scroll.isMoving"
+    },
+    "Framer: scroll.closestContentLayer($1,$2)": {
+        "prefix": "scroll.closestContentLayer($1,$2)",
+        "body": "scroll.closestContentLayer($1,$2)",
+        "description": "Framer: scroll.closestContentLayer($1,$2)"
+    },
+    "Framer: scroll.closestContentLayerForScrollPoint($1,$2)": {
+        "prefix": "scroll.closestContentLayerForScrollPoint($1,$2)",
+        "body": "scroll.closestContentLayerForScrollPoint($1,$2)",
+        "description": "Framer: scroll.closestContentLayerForScrollPoint($1,$2)"
+    },
+    "Framer: scroll.scrollToPoint($1,$2,$3)": {
+        "prefix": "scroll.scrollToPoint($1,$2,$3)",
+        "body": "scroll.scrollToPoint($1,$2,$3)",
+        "description": "Framer: scroll.scrollToPoint($1,$2,$3)"
+    },
+    "Framer: scroll.scrollToLayer(layer,originX,originY,animate,animationOptions)": {
+        "prefix": "scroll.scrollToLayer(layer,originX,originY,animate,animationOptions)",
+        "body": "scroll.scrollToLayer(layer,originX,originY,animate,animationOptions)",
+        "description": "Framer: scroll.scrollToLayer(layer,originX,originY,animate,animationOptions)"
+    },
+    "Framer: scroll.scrollToClosestLayer($1,$2)": {
+        "prefix": "scroll.scrollToClosestLayer($1,$2)",
+        "body": "scroll.scrollToClosestLayer($1,$2)",
+        "description": "Framer: scroll.scrollToClosestLayer($1,$2)"
+    },
+    "Framer: scroll.mouseWheelEnabled": {
+        "prefix": "scroll.mouseWheelEnabled",
+        "body": "scroll.mouseWheelEnabled",
+        "description": "Framer: scroll.mouseWheelEnabled"
+    },
+    "Framer: scroll.wrap($1)": {
+        "prefix": "scroll.wrap($1)",
+        "body": "scroll.wrap($1)",
+        "description": "Framer: scroll.wrap($1)"
+    },
+    "Framer: scroll.updateContent()": {
+        "prefix": "scroll.updateContent()",
+        "body": "scroll.updateContent()",
+        "description": "Framer: scroll.updateContent()"
+    },
+    "Framer: scroll.copy()": {
+        "prefix": "scroll.copy()",
+        "body": "scroll.copy()",
+        "description": "Framer: scroll.copy()"
+    },
+    "Framer: scroll.propagateEvents": {
+        "prefix": "scroll.propagateEvents",
+        "body": "scroll.propagateEvents",
+        "description": "Framer: scroll.propagateEvents"
+    },
+    "Framer: new SliderComponent": {
+        "prefix": "new SliderComponent",
+        "body": "new SliderComponent",
+        "description": "Framer: new SliderComponent"
+    },
+    "Framer: slider.knob": {
+        "prefix": "slider.knob",
+        "body": "slider.knob",
+        "description": "Framer: slider.knob"
+    },
+    "Framer: slider.knobSize": {
+        "prefix": "slider.knobSize",
+        "body": "slider.knobSize",
+        "description": "Framer: slider.knobSize"
+    },
+    "Framer: slider.fill": {
+        "prefix": "slider.fill",
+        "body": "slider.fill",
+        "description": "Framer: slider.fill"
+    },
+    "Framer: slider.min": {
+        "prefix": "slider.min",
+        "body": "slider.min",
+        "description": "Framer: slider.min"
+    },
+    "Framer: slider.max": {
+        "prefix": "slider.max",
+        "body": "slider.max",
+        "description": "Framer: slider.max"
+    },
+    "Framer: slider.value": {
+        "prefix": "slider.value",
+        "body": "slider.value",
+        "description": "Framer: slider.value"
+    },
+    "Framer: slider.pointForValue($1)": {
+        "prefix": "slider.pointForValue($1)",
+        "body": "slider.pointForValue($1)",
+        "description": "Framer: slider.pointForValue($1)"
+    },
+    "Framer: slider.valueForPoint($1)": {
+        "prefix": "slider.valueForPoint($1)",
+        "body": "slider.valueForPoint($1)",
+        "description": "Framer: slider.valueForPoint($1)"
+    },
+    "Framer: slider.animateToValue($1,$2)": {
+        "prefix": "slider.animateToValue($1,$2)",
+        "body": "slider.animateToValue($1,$2)",
+        "description": "Framer: slider.animateToValue($1,$2)"
+    },
+    "Framer: default": {
+        "prefix": "default",
+        "body": "default",
+        "description": "Framer: default"
+    },
+    "Framer: states.current": {
+        "prefix": "states.current",
+        "body": "states.current",
+        "description": "Framer: states.current"
+    },
+    "Framer: states.previous": {
+        "prefix": "states.previous",
+        "body": "states.previous",
+        "description": "Framer: states.previous"
+    },
+    "Framer: Utils.modulate(value,[a,a],[b,b],limit)": {
+        "prefix": "Utils.modulate(value,[a,a],[b,b],limit)",
+        "body": "Utils.modulate(value,[a,a],[b,b],limit)",
+        "description": "Framer: Utils.modulate(value,[a,a],[b,b],limit)"
+    },
+    "Framer: Utils.cycle($1)": {
+        "prefix": "Utils.cycle($1)",
+        "body": "Utils.cycle($1)",
+        "description": "Framer: Utils.cycle($1)"
+    },
+    "Framer: Utils.labelLayer($1,$2)": {
+        "prefix": "Utils.labelLayer($1,$2)",
+        "body": "Utils.labelLayer($1,$2)",
+        "description": "Framer: Utils.labelLayer($1,$2)"
+    },
+    "Framer: Utils.round(value,decimals,increments,min,max)": {
+        "prefix": "Utils.round(value,decimals,increments,min,max)",
+        "body": "Utils.round(value,decimals,increments,min,max)",
+        "description": "Framer: Utils.round(value,decimals,increments,min,max)"
+    },
+    "Framer: Utils.randomChoice($1)": {
+        "prefix": "Utils.randomChoice($1)",
+        "body": "Utils.randomChoice($1)",
+        "description": "Framer: Utils.randomChoice($1)"
+    },
+    "Framer: Utils.randomColor($1)": {
+        "prefix": "Utils.randomColor($1)",
+        "body": "Utils.randomColor($1)",
+        "description": "Framer: Utils.randomColor($1)"
+    },
+    "Framer: Utils.randomImage($1)": {
+        "prefix": "Utils.randomImage($1)",
+        "body": "Utils.randomImage($1)",
+        "description": "Framer: Utils.randomImage($1)"
+    },
+    "Framer: Utils.randomNumber($1,$2)": {
+        "prefix": "Utils.randomNumber($1,$2)",
+        "body": "Utils.randomNumber($1,$2)",
+        "description": "Framer: Utils.randomNumber($1,$2)"
+    },
+    "Framer: Utils.delay($1,$2)": {
+        "prefix": "Utils.delay($1,$2)",
+        "body": "Utils.delay($1,$2)",
+        "description": "Framer: Utils.delay($1,$2)"
+    },
+    "Framer: Utils.frameInset($1,$2)": {
+        "prefix": "Utils.frameInset($1,$2)",
+        "body": "Utils.frameInset($1,$2)",
+        "description": "Framer: Utils.frameInset($1,$2)"
+    },
+    "Framer: Utils.interval($1,$2)": {
+        "prefix": "Utils.interval($1,$2)",
+        "body": "Utils.interval($1,$2)",
+        "description": "Framer: Utils.interval($1,$2)"
+    },
+    "Framer: Utils.debounce($1,$2)": {
+        "prefix": "Utils.debounce($1,$2)",
+        "body": "Utils.debounce($1,$2)",
+        "description": "Framer: Utils.debounce($1,$2)"
+    },
+    "Framer: Utils.insertCSS($1)": {
+        "prefix": "Utils.insertCSS($1)",
+        "body": "Utils.insertCSS($1)",
+        "description": "Framer: Utils.insertCSS($1)"
+    },
+    "Framer: Utils.throttle($1,$2)": {
+        "prefix": "Utils.throttle($1,$2)",
+        "body": "Utils.throttle($1,$2)",
+        "description": "Framer: Utils.throttle($1,$2)"
+    },
+    "Framer: Utils.isWebKit()": {
+        "prefix": "Utils.isWebKit()",
+        "body": "Utils.isWebKit()",
+        "description": "Framer: Utils.isWebKit()"
+    },
+    "Framer: Utils.isChrome()": {
+        "prefix": "Utils.isChrome()",
+        "body": "Utils.isChrome()",
+        "description": "Framer: Utils.isChrome()"
+    },
+    "Framer: Utils.isSafari()": {
+        "prefix": "Utils.isSafari()",
+        "body": "Utils.isSafari()",
+        "description": "Framer: Utils.isSafari()"
+    },
+    "Framer: Utils.isTouch()": {
+        "prefix": "Utils.isTouch()",
+        "body": "Utils.isTouch()",
+        "description": "Framer: Utils.isTouch()"
+    },
+    "Framer: Utils.isDesktop()": {
+        "prefix": "Utils.isDesktop()",
+        "body": "Utils.isDesktop()",
+        "description": "Framer: Utils.isDesktop()"
+    },
+    "Framer: Utils.isPhone()": {
+        "prefix": "Utils.isPhone()",
+        "body": "Utils.isPhone()",
+        "description": "Framer: Utils.isPhone()"
+    },
+    "Framer: Utils.isTablet()": {
+        "prefix": "Utils.isTablet()",
+        "body": "Utils.isTablet()",
+        "description": "Framer: Utils.isTablet()"
+    },
+    "Framer: Utils.isMobile()": {
+        "prefix": "Utils.isMobile()",
+        "body": "Utils.isMobile()",
+        "description": "Framer: Utils.isMobile()"
+    },
+    "Framer: new VideoLayer": {
+        "prefix": "new VideoLayer",
+        "body": "new VideoLayer",
+        "description": "Framer: new VideoLayer"
+    },
+    "Framer: video": {
+        "prefix": "video",
+        "body": "video",
+        "description": "Framer: video"
+    },
+    "Framer: player": {
+        "prefix": "player",
+        "body": "player",
+        "description": "Framer: player"
+    },
+    "Framer: explore($1)": {
+        "prefix": "explore($1)",
+        "body": "explore($1)",
+        "description": "Framer: explore($1)"
+    }
+}
