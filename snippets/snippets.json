@@ -24,11 +24,6 @@
         "body": "Align.top($1)",
         "description": "Framer: Align.top($1)"
     },
-    "Framer: new Animation": {
-        "prefix": "new Animation",
-        "body": "new Animation",
-        "description": "Framer: new Animation"
-    },
     "Framer: animate": {
         "prefix": "animate",
         "body": "animate",
@@ -1654,11 +1649,6 @@
         "body": "flow.footer",
         "description": "Framer: flow.footer"
     },
-    "Framer: new Layer": {
-        "prefix": "new Layer",
-        "body": "new Layer",
-        "description": "Framer: new Layer"
-    },
     "Framer: layer.id": {
         "prefix": "layer.id",
         "body": "layer.id",
@@ -2704,11 +2694,6 @@
         "body": "new VideoLayer",
         "description": "Framer: new VideoLayer"
     },
-    "Framer: new TextLayer": {
-        "prefix": "new TextLayer",
-        "body": "new TextLayer",
-        "description": "Framer: new TextLayer"
-    },
     "Framer: video": {
         "prefix": "video",
         "body": "video",
@@ -2723,5 +2708,25 @@
         "prefix": "explore($1)",
         "body": "explore($1)",
         "description": "Framer: explore($1)"
+    },
+    "Framer: backgroundColor": {
+        "prefix": "backgroundColor",
+        "body": "backgroundColor",
+        "description": "Background color of a Layer"
+    },
+    "Framer: new Layer": {
+        "prefix": "new Layer",
+        "body": "${1:layerName} = new Layer\n\tx: ${2:value}\n\ty: ${3:value}",
+        "description": "Create a Layer"
+    },
+    "Framer: new TextLayer": {
+        "prefix": "new TextLayer",
+        "body": "${1:layerName} = new TextLayer\n\ttext: \"${2:textContent}\"",
+        "description": "Create a TextLayer"
+    },
+    "Framer: new Animation": {
+        "prefix": "new Animation",
+        "body": "${1:animationName} = new Animation ${2:layerTarget}\n\t${3:properties}",
+        "description": "Create an Animation"
     }
 }
