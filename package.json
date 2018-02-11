@@ -8,7 +8,7 @@
         "color": "#000",
         "theme": "dark"
     },
-    "version": "0.0.2",
+    "version": "0.0.3",
     "description": "Framer Snippets for Visual Studio Code",
     "engines": {
         "vscode": "^1.8.0"
