@@ -2704,6 +2704,11 @@
         "body": "new VideoLayer",
         "description": "Framer: new VideoLayer"
     },
+    "Framer: new TextLayer": {
+        "prefix": "new TextLayer",
+        "body": "new TextLayer",
+        "description": "Framer: new TextLayer"
+    },
     "Framer: video": {
         "prefix": "video",
         "body": "video",
