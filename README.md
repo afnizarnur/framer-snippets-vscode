@@ -1,5 +1,5 @@
 ### Framer Snippets for Visual Studio Code
-This extension contains code snippets for Framer for Coffeescript to make you more productive while working with Framer at your favourite code editor ✨. Started to improved and maintained by [me](mailto:afnizarhilmi@gmail.com), originally writen by [Andrea Bianchi](https://github.com/makinteract), which is based on [Atom snippets](https://github.com/makinteract/FramerTools/blob/master/editors/atom/snippets.cson). 
+This extension contains code snippets for Framer for Coffeescript to make you more productive while working with Framer at your favourite code editor ✨. Started to improved and maintained by [me](mailto:afnizarhilmi@gmail.com), originally written by [Andrea Bianchi](https://github.com/makinteract), which is based on [Atom snippets](https://github.com/makinteract/FramerTools/blob/master/editors/atom/snippets.cson). 
 
 ### Installation
 In order to install this extension you need to:
