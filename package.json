@@ -3,7 +3,7 @@
     "displayName": "Framer Snippets",
     "author": "Afnizar Nur Ghifari",
     "publisher": "afnizarnur",
-    "icon": "logo.png",
+    "icon": "https://raw.githubusercontent.com/afnizarnur/framer-snippets-vscode/master/logo.png",
     "galleryBanner": {
         "color": "#000",
         "theme": "dark"
