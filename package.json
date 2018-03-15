@@ -5,13 +5,13 @@
     "author": "Afnizar Nur Ghifari",
     "publisher": "afnizarnur",
     "license": "MIT",
-    "icon": "https://raw.githubusercontent.com/afnizarnur/framer-snippets-vscode/master/logo.png",
+    "icon": "logo.png",
     "homepage": "https://github.com/afnizarnur/framer-snippets-vscode",
     "galleryBanner": {
         "color": "#000",
         "theme": "dark"
     },
-    "version": "0.2.0",
+    "version": "0.2.1",
     "engines": {
         "vscode": "^1.8.0"
     },
