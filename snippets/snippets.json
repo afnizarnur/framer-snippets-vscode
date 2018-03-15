@@ -1,28 +1,28 @@
 {
-    "Framer: Align.bottom($1)": {
-        "prefix": "Align.bottom($1)",
-        "body": "Align.bottom($1)",
-        "description": "Framer: Align.bottom($1)"
+    "Framer: Align.bottom(offset)": {
+        "prefix": "Align.bottom(offset)",
+        "body": "Align.bottom(${1:offset})",
+        "description": "Position the layer to the bottom of its parent"
     },
-    "Framer: Align.center($1)": {
-        "prefix": "Align.center($1)",
-        "body": "Align.center($1)",
-        "description": "Framer: Align.center($1)"
+    "Framer: Align.center(offset)": {
+        "prefix": "Align.center(offset)",
+        "body": "Align.center(${1:offset})",
+        "description": "Place the layer in the center, relative to its parent"
     },
-    "Framer: Align.left($1)": {
-        "prefix": "Align.left($1)",
-        "body": "Align.left($1)",
-        "description": "Framer: Align.left($1)"
+    "Framer: Align.left(offset)": {
+        "prefix": "Align.left(offset)",
+        "body": "Align.left(${1:offset})",
+        "description": "Position the layer to the left of its parent"
     },
-    "Framer: Align.right($1)": {
-        "prefix": "Align.right($1)",
-        "body": "Align.right($1)",
-        "description": "Framer: Align.right($1)"
+    "Framer: Align.right(offset)": {
+        "prefix": "Align.right(offset)",
+        "body": "Align.right(${1:offset})",
+        "description": "Place the layer to the right of its parent"
     },
-    "Framer: Align.top($1)": {
-        "prefix": "Align.top($1)",
-        "body": "Align.top($1)",
-        "description": "Framer: Align.top($1)"
+    "Framer: Align.top(offset)": {
+        "prefix": "Align.top(offset)",
+        "body": "Align.top(${1:offset})",
+        "description": "Position the layer to the top of its parent"
     },
     "Framer: animate": {
         "prefix": "animate",
