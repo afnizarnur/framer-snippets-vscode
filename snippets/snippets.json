@@ -24,6 +24,11 @@
         "body": "Align.top(${1:offset})",
         "description": "Position the layer to the top of its parent"
     },
+    "Framer: new Animation": {
+        "prefix": "new Animation",
+        "body": "${1:animationName} = new Animation ${2:layerTarget}\n\t${3:properties}",
+        "description": "Create an Animation"
+    },
     "Framer: animate": {
         "prefix": "animate",
         "body": "animate",
@@ -32,32 +37,67 @@
     "Framer: Bezier.linear": {
         "prefix": "Bezier.linear",
         "body": "Bezier.linear",
-        "description": "Framer: Bezier.linear"
+        "description": "Animation curve with constant speed"
     },
     "Framer: Bezier.ease": {
         "prefix": "Bezier.ease",
         "body": "Bezier.ease",
-        "description": "Framer: Bezier.ease"
+        "description": "Animation curve with ease curve"
     },
     "Framer: Bezier.easeIn": {
         "prefix": "Bezier.easeIn",
         "body": "Bezier.easeIn",
-        "description": "Framer: Bezier.easeIn"
+        "description": "Animation curve with ease-in curve"
     },
     "Framer: Bezier.easeOut": {
         "prefix": "Bezier.easeOut",
         "body": "Bezier.easeOut",
-        "description": "Framer: Bezier.easeOut"
+        "description": "Animation curve with ease-out curve"
     },
     "Framer: Bezier.easeInOut": {
         "prefix": "Bezier.easeInOut",
         "body": "Bezier.easeInOut",
-        "description": "Framer: Bezier.easeInOut"
+        "description": "Animation curve with ease-in-out curve"
     },
-    "Framer: Spring": {
-        "prefix": "Spring",
-        "body": "Spring",
-        "description": "Framer: Spring"
+    "Framer: Spring(damping, mass, velocity)": {
+        "prefix": "Spring(damping, mass, velocity)",
+        "body": "Spring(damping:${1:damping}, mass:${2:mass}, velocity:${3:velocity})",
+        "description": "Animation curve with a spring curve with damping"
+    },
+    "Framer: Spring(tension, friction, velocity, tolerance)": {
+        "prefix": "Spring(tension, friction, velocity, tolerance)",
+        "body": "Spring(tension:${1:tension}, friction:${2:friction}, velocity:${3:velocity}, tolerance:${4:tolerance})",
+        "description": "Animation curve with a classic spring curve with damping"
+    },
+    "Framer: animation.start()": {
+        "prefix": "animation.start()",
+        "body": "${1:animationName}.start()",
+        "description": "Start the animation"
+    },
+    "Framer: animation.stop()": {
+        "prefix": "animation.stop()",
+        "body": "${1:animationName}.stop()",
+        "description": "Stop the animation"
+    },
+    "Framer: animation.reverse()": {
+        "prefix": "animation.reverse()",
+        "body": "${1:animationName}.reverse()",
+        "description": "Create a new animation with all reverse values"
+    },
+    "Framer: animation.reset()": {
+        "prefix": "animation.reset()",
+        "body": "${1:animationName}.reset()",
+        "description": "Reset the layer to its default state"
+    },
+    "Framer: animation.restart()": {
+        "prefix": "animation.restart()",
+        "body": "${1:animationName}.restart()",
+        "description": "Reset the layer to its default state and start the animation again"
+    },
+    "Framer: animation.finish()": {
+        "prefix": "animation.finish()",
+        "body": "${1:animationName}.finish()",
+        "description": "Stop the currently active animation and jump to its end state"
     },
     "Framer: x": {
         "prefix": "x",
@@ -2723,10 +2763,5 @@
         "prefix": "new TextLayer",
         "body": "${1:layerName} = new TextLayer\n\ttext: \"${2:textContent}\"",
         "description": "Create a TextLayer"
-    },
-    "Framer: new Animation": {
-        "prefix": "new Animation",
-        "body": "${1:animationName} = new Animation ${2:layerTarget}\n\t${3:properties}",
-        "description": "Create an Animation"
     }
 }
